@@ -14,9 +14,9 @@ const generateReadme = (): Plugin => {
         const data = await fs.readFile(templatePath, "utf8");
 
         const result = data
-          .replace(/__NAME__/g, JSON.stringify(pkg.name))
-          .replace(/__DESCRIPTION__/g, JSON.stringify(pkg.description))
-          .replace(/__VERSION__/g, JSON.stringify(pkg.version));
+          .replace(/__NAME__/g, String(pkg.name))
+          .replace(/__DESCRIPTION__/g, String(pkg.description))
+          .replace(/__VERSION__/g, String(pkg.version));
 
         await fs.mkdir(path.dirname(outputPath), { recursive: true });
         await fs.writeFile(outputPath, result, "utf8");
