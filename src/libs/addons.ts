@@ -32,7 +32,8 @@ export function getBrowserExtUrl(): string {
   let browserName: string = "Unknown";
 
   if (userAgent.includes("Firefox")) {
-    browserName = "https://qit.tools/";
+    browserName =
+      "https://addons.mozilla.org/en-US/firefox/addon/password-generator-pro/";
   } else if (userAgent.includes("Edg")) {
     browserName = "https://qit.tools/";
   } else if (userAgent.includes("Chrome")) {
