@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Penjana Kata Laluan ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Penjana Kata Laluan ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Sambungan/tambahan yang berkuasa dan mesra pengguna dengan ciri PRO untuk menjana kata laluan secara rawak dan menyemak keselamatan kata laluan."
+  },
+  "tab_main": {
+    "message": "Utama"
+  },
+  "tab_history": {
+    "message": "Sejarah"
+  },
+  "tab_about": {
+    "message": "Tentang"
+  },
+  "checkbox_uppercase_label": {
+    "message": "HURUF BESAR"
+  },
+  "checkbox_lowercase_label": {
+    "message": "huruf kecil"
+  },
+  "checkbox_numbers_label": {
+    "message": "Nombor [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Ketat"
+  },
+  "checkbox_strict_description": {
+    "message": "Mewajibkan semua jenis aksara."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Kecualikan aksara serupa"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Kecualikan aksara serupa, seperti 'i' dan 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Simbol"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Mudah untuk dikatakan"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Mudah untuk dibaca"
+  },
+  "radio_happy_label": {
+    "message": "Gembira"
+  },
+  "radio_strong_label": {
+    "message": "Kuat"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoid"
+  },
+  "button_generate_label": {
+    "message": "Jana"
+  },
+  "estimated_time_to_crack": {
+    "message": "Anggaran masa untuk retak: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Pratetap"
+  },
+  "legend_options": {
+    "message": "Pilihan"
+  },
+  "link_like": {
+    "message": "Suka"
+  },
+  "button_clear": {
+    "message": "Kosongkan"
+  },
+  "switch_theme": {
+    "message": "Gelap"
+  },
+  "about_version_label": {
+    "message": "Versi"
+  },
+  "about_license_label": {
+    "message": "Lesen"
+  },
+  "about_author_label": {
+    "message": "Pengarang"
+  },
+  "about_homepage_label": {
+    "message": "Halaman utama"
+  },
+  "about_credits_label": {
+    "message": "Kredit"
+  },
+  "input_range_length_label": {
+    "message": "Panjang"
+  },
+  "switch_save_history_label": {
+    "message": "Simpan sejarah"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Генератор Лозинки ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Генератор Лозинки ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Моћно и кориснички прилагођено проширење/додатак са PRO функцијама за насумично генерисање лозинки и проверу њихове безбедности."
+  },
+  "tab_main": {
+    "message": "Главно"
+  },
+  "tab_history": {
+    "message": "Историја"
+  },
+  "tab_about": {
+    "message": "О нама"
+  },
+  "checkbox_uppercase_label": {
+    "message": "ВЕЛИКА СЛОВА"
+  },
+  "checkbox_lowercase_label": {
+    "message": "мала слова"
+  },
+  "checkbox_numbers_label": {
+    "message": "Бројеви [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Строго"
+  },
+  "checkbox_strict_description": {
+    "message": "Захтевај све типове карактера."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Изузми сличне карактере"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Изузми сличне карактере, као што су 'i' и 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Симболи"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Лако за рећи"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Лако за читати"
+  },
+  "radio_happy_label": {
+    "message": "Срећан"
+  },
+  "radio_strong_label": {
+    "message": "Јак"
+  },
+  "radio_paranoid_label": {
+    "message": "Параноичан"
+  },
+  "button_generate_label": {
+    "message": "Генериши"
+  },
+  "estimated_time_to_crack": {
+    "message": "Процењено време за пробијање: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Унапред подешено"
+  },
+  "legend_options": {
+    "message": "Опције"
+  },
+  "link_like": {
+    "message": "Свиђа ми се"
+  },
+  "button_clear": {
+    "message": "Очисти"
+  },
+  "switch_theme": {
+    "message": "Тамно"
+  },
+  "about_version_label": {
+    "message": "Верзија"
+  },
+  "about_license_label": {
+    "message": "Лиценца"
+  },
+  "about_author_label": {
+    "message": "Аутор"
+  },
+  "about_homepage_label": {
+    "message": "Почетна страница"
+  },
+  "about_credits_label": {
+    "message": "Захвалнице"
+  },
+  "input_range_length_label": {
+    "message": "Дужина"
+  },
+  "switch_save_history_label": {
+    "message": "Сачувај историју"
+  }
+}

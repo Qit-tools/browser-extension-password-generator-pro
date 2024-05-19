@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Paroļu Ģenerators ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Paroļu Ģenerators ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Jaudīgs un lietotājam draudzīgs paplašinājums/pievienojumprogramma ar PRO funkcijām paroļu nejaušai ģenerēšanai un to drošības pārbaudei."
+  },
+  "tab_main": {
+    "message": "Galvenā"
+  },
+  "tab_history": {
+    "message": "Vēsture"
+  },
+  "tab_about": {
+    "message": "Par"
+  },
+  "checkbox_uppercase_label": {
+    "message": "LIELIE BURTI"
+  },
+  "checkbox_lowercase_label": {
+    "message": "mazie burti"
+  },
+  "checkbox_numbers_label": {
+    "message": "Skaitļi [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Stingrs"
+  },
+  "checkbox_strict_description": {
+    "message": "Piespiest visus rakstzīmju tipus."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Izslēgt līdzīgas rakstzīmes"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Izslēgt līdzīgas rakstzīmes, piemēram, 'i' un 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Simboli"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Viegli pateikt"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Viegli lasīt"
+  },
+  "radio_happy_label": {
+    "message": "Laimīgs"
+  },
+  "radio_strong_label": {
+    "message": "Spēcīgs"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoisks"
+  },
+  "button_generate_label": {
+    "message": "Ģenerēt"
+  },
+  "estimated_time_to_crack": {
+    "message": "Aptuvenais laiks ielaušanās: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Priekšiestatījumi"
+  },
+  "legend_options": {
+    "message": "Opcijas"
+  },
+  "link_like": {
+    "message": "Patīk"
+  },
+  "button_clear": {
+    "message": "Notīrīt"
+  },
+  "switch_theme": {
+    "message": "Tumšs"
+  },
+  "about_version_label": {
+    "message": "Versija"
+  },
+  "about_license_label": {
+    "message": "Licence"
+  },
+  "about_author_label": {
+    "message": "Autors"
+  },
+  "about_homepage_label": {
+    "message": "Mājas lapa"
+  },
+  "about_credits_label": {
+    "message": "Pateicības"
+  },
+  "input_range_length_label": {
+    "message": "Garums"
+  },
+  "switch_save_history_label": {
+    "message": "Saglabāt vēsturi"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Generator Haseł ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Generator Haseł ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Potężne i przyjazne dla użytkownika rozszerzenie/dodatek z funkcjami PRO do losowego generowania haseł i sprawdzania ich bezpieczeństwa."
+  },
+  "tab_main": {
+    "message": "Główna"
+  },
+  "tab_history": {
+    "message": "Historia"
+  },
+  "tab_about": {
+    "message": "O"
+  },
+  "checkbox_uppercase_label": {
+    "message": "DUŻE LITERY"
+  },
+  "checkbox_lowercase_label": {
+    "message": "małe litery"
+  },
+  "checkbox_numbers_label": {
+    "message": "Cyfry [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Ścisłe"
+  },
+  "checkbox_strict_description": {
+    "message": "Wymuszaj wszystkie rodzaje znaków."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Wyklucz podobne znaki"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Wyklucz podobne znaki, jak 'i' i 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Symbole"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Łatwe do powiedzenia"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Łatwe do przeczytania"
+  },
+  "radio_happy_label": {
+    "message": "Szczęśliwe"
+  },
+  "radio_strong_label": {
+    "message": "Silne"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoiczne"
+  },
+  "button_generate_label": {
+    "message": "Generuj"
+  },
+  "estimated_time_to_crack": {
+    "message": "Szacowany czas na złamanie: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Ustawienia wstępne"
+  },
+  "legend_options": {
+    "message": "Opcje"
+  },
+  "link_like": {
+    "message": "Lubię to"
+  },
+  "button_clear": {
+    "message": "Wyczyść"
+  },
+  "switch_theme": {
+    "message": "Ciemny"
+  },
+  "about_version_label": {
+    "message": "Wersja"
+  },
+  "about_license_label": {
+    "message": "Licencja"
+  },
+  "about_author_label": {
+    "message": "Autor"
+  },
+  "about_homepage_label": {
+    "message": "Strona główna"
+  },
+  "about_credits_label": {
+    "message": "Podziękowania"
+  },
+  "input_range_length_label": {
+    "message": "Długość"
+  },
+  "switch_save_history_label": {
+    "message": "Zapisz historię"
+  }
+}

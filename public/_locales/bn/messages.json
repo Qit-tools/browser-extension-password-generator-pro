@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "পাসওয়ার্ড জেনারেটর ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "পাসওয়ার্ড জেনারেটর ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "শক্তিশালী এবং ব্যবহারকারী-বান্ধব এক্সটেনশন/অ্যাড-অন, যা প্রো ফিচার সহ এলোমেলোভাবে পাসওয়ার্ড জেনারেট এবং নিরাপত্তা পরীক্ষা করতে সক্ষম।"
+  },
+  "tab_main": {
+    "message": "প্রধান"
+  },
+  "tab_history": {
+    "message": "ইতিহাস"
+  },
+  "tab_about": {
+    "message": "সম্পর্কিত"
+  },
+  "checkbox_uppercase_label": {
+    "message": "বড় হাতের অক্ষর"
+  },
+  "checkbox_lowercase_label": {
+    "message": "ছোট হাতের অক্ষর"
+  },
+  "checkbox_numbers_label": {
+    "message": "সংখ্যা [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "কঠোর"
+  },
+  "checkbox_strict_description": {
+    "message": "সমস্ত অক্ষরের ধরণ প্রয়োগ করুন।"
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "অস্পষ্টতা দূর করা"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "অনুরূপ অক্ষরগুলি বাদ দিন, যেমন 'i' এবং 'l'।"
+  },
+  "checkbox_symbols_label": {
+    "message": "প্রতীক"
+  },
+  "radio_easy_to_say_label": {
+    "message": "সহজে উচ্চারণযোগ্য"
+  },
+  "radio_easy_to_read_label": {
+    "message": "সহজে পড়া যায়"
+  },
+  "radio_happy_label": {
+    "message": "আনন্দিত"
+  },
+  "radio_strong_label": {
+    "message": "শক্তিশালী"
+  },
+  "radio_paranoid_label": {
+    "message": "প্যারানয়েড"
+  },
+  "button_generate_label": {
+    "message": "জেনারেট"
+  },
+  "estimated_time_to_crack": {
+    "message": "ভাঙ্গার আনুমানিক সময়: {{time}}।"
+  },
+  "legend_preset": {
+    "message": "প্রিসেট"
+  },
+  "legend_options": {
+    "message": "বিকল্প"
+  },
+  "link_like": {
+    "message": "পছন্দ"
+  },
+  "button_clear": {
+    "message": "পরিষ্কার"
+  },
+  "switch_theme": {
+    "message": "ডার্ক"
+  },
+  "about_version_label": {
+    "message": "ভার্সন"
+  },
+  "about_license_label": {
+    "message": "লাইসেন্স"
+  },
+  "about_author_label": {
+    "message": "লেখক"
+  },
+  "about_homepage_label": {
+    "message": "হোমপেজ"
+  },
+  "about_credits_label": {
+    "message": "কৃতজ্ঞতা"
+  },
+  "input_range_length_label": {
+    "message": "দৈর্ঘ্য"
+  },
+  "switch_save_history_label": {
+    "message": "ইতিহাস সংরক্ষণ করুন"
+  }
+}

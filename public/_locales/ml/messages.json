@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "പാസ്‌വേഡ് ജനറേറ്റർ ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "പാസ്‌വേഡ് ജനറേറ്റർ ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "പുതുപ്പിച്ചും ഉപയോഗസൌഹൃദവുമായ വിപുലീകരണം/ചേർകോ, PRO സവിശേഷതകളോട് കൂടിയ പാസ്‌വേഡുകളുടെ റാൻഡം ജനറേഷൻ, അവയുടെ സുരക്ഷ പരിശോധിക്കുക."
+  },
+  "tab_main": {
+    "message": "പ്രധാന"
+  },
+  "tab_history": {
+    "message": "ചരിത്രം"
+  },
+  "tab_about": {
+    "message": "കുറിച്ച്"
+  },
+  "checkbox_uppercase_label": {
+    "message": "വലിയ അക്ഷരങ്ങൾ"
+  },
+  "checkbox_lowercase_label": {
+    "message": "ചെറിയ അക്ഷരങ്ങൾ"
+  },
+  "checkbox_numbers_label": {
+    "message": "സംഖ്യകൾ [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "കർശന"
+  },
+  "checkbox_strict_description": {
+    "message": "എല്ലാ അക്ഷരതരം ഉപയോഗപ്പെടുത്തുക."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "സമാനമായ അക്ഷരങ്ങൾ ഒഴിവാക്കുക"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "സമാനമായ അക്ഷരങ്ങൾ ഒഴിവാക്കുക, പോലുള്ള 'i' മായും 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "ചിഹ്നങ്ങൾ"
+  },
+  "radio_easy_to_say_label": {
+    "message": "പറയാൻ എളുപ്പം"
+  },
+  "radio_easy_to_read_label": {
+    "message": "വായിക്കാൻ എളുപ്പം"
+  },
+  "radio_happy_label": {
+    "message": "സന്തോഷം"
+  },
+  "radio_strong_label": {
+    "message": "ശക്തം"
+  },
+  "radio_paranoid_label": {
+    "message": "ഭയന്ന"
+  },
+  "button_generate_label": {
+    "message": "ജെനറേറ്റ്"
+  },
+  "estimated_time_to_crack": {
+    "message": "ഫേട്ച്ചെടുക്കാനുള്ള അനുമാനിത സമയം: {{time}}."
+  },
+  "legend_preset": {
+    "message": "മുൻകൂട്ടി നിശ്ചയിക്കുക"
+  },
+  "legend_options": {
+    "message": "ഓപ്ഷനുകൾ"
+  },
+  "link_like": {
+    "message": "ഇഷ്ടം"
+  },
+  "button_clear": {
+    "message": "ശുദ്ധമാക്കുക"
+  },
+  "switch_theme": {
+    "message": "ഇരുട്ട്"
+  },
+  "about_version_label": {
+    "message": "പതിപ്പ്"
+  },
+  "about_license_label": {
+    "message": "ലൈസൻസ്"
+  },
+  "about_author_label": {
+    "message": "രചയിതാവ്"
+  },
+  "about_homepage_label": {
+    "message": "ഹോംപേജ്"
+  },
+  "about_credits_label": {
+    "message": "ക്രെഡിറ്റുകൾ"
+  },
+  "input_range_length_label": {
+    "message": "നീളം"
+  },
+  "switch_save_history_label": {
+    "message": "ചരിത്രം സേവ് ചെയ്യുക"
+  }
+}

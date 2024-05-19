@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "تولید کننده رمز عبور ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "تولید کننده رمز عبور ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "افزونه/افزودنی قدرتمند و کاربر پسند با ویژگی‌های PRO برای تولید تصادفی و بررسی امنیت رمزهای عبور."
+  },
+  "tab_main": {
+    "message": "اصلی"
+  },
+  "tab_history": {
+    "message": "تاریخچه"
+  },
+  "tab_about": {
+    "message": "درباره"
+  },
+  "checkbox_uppercase_label": {
+    "message": "حروف بزرگ"
+  },
+  "checkbox_lowercase_label": {
+    "message": "حروف کوچک"
+  },
+  "checkbox_numbers_label": {
+    "message": "اعداد [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "سختگیرانه"
+  },
+  "checkbox_strict_description": {
+    "message": "اجبار به استفاده از انواع کاراکترها."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "حذف کاراکترهای مشابه"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "حذف کاراکترهای مشابه، مانند 'i' و 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "نمادها"
+  },
+  "radio_easy_to_say_label": {
+    "message": "آسان برای گفتن"
+  },
+  "radio_easy_to_read_label": {
+    "message": "آسان برای خواندن"
+  },
+  "radio_happy_label": {
+    "message": "خوشحال"
+  },
+  "radio_strong_label": {
+    "message": "قوی"
+  },
+  "radio_paranoid_label": {
+    "message": "پارانویا"
+  },
+  "button_generate_label": {
+    "message": "تولید"
+  },
+  "estimated_time_to_crack": {
+    "message": "زمان تخمینی برای شکستن: {{time}}."
+  },
+  "legend_preset": {
+    "message": "پیش‌تنظیمات"
+  },
+  "legend_options": {
+    "message": "گزینه‌ها"
+  },
+  "link_like": {
+    "message": "پسندیدن"
+  },
+  "button_clear": {
+    "message": "پاک کردن"
+  },
+  "switch_theme": {
+    "message": "تاریک"
+  },
+  "about_version_label": {
+    "message": "نسخه"
+  },
+  "about_license_label": {
+    "message": "مجوز"
+  },
+  "about_author_label": {
+    "message": "نویسنده"
+  },
+  "about_homepage_label": {
+    "message": "صفحه اصلی"
+  },
+  "about_credits_label": {
+    "message": "تشکر و قدردانی"
+  },
+  "input_range_length_label": {
+    "message": "طول"
+  },
+  "switch_save_history_label": {
+    "message": "ذخیره تاریخچه"
+  }
+}

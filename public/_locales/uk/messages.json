@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Генератор Паролів ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Генератор Паролів ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Потужне та зручне розширення/додаток з професійними функціями для випадкового створення та перевірки безпеки паролів."
+  },
+  "tab_main": {
+    "message": "Головна"
+  },
+  "tab_history": {
+    "message": "Історія"
+  },
+  "tab_about": {
+    "message": "Про програму"
+  },
+  "checkbox_uppercase_label": {
+    "message": "ВЕЛИКІ ЛІТЕРИ"
+  },
+  "checkbox_lowercase_label": {
+    "message": "малі літери"
+  },
+  "checkbox_numbers_label": {
+    "message": "Цифри [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Суворо"
+  },
+  "checkbox_strict_description": {
+    "message": "Використовувати всі типи символів."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Виключити подібні символи"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Виключити подібні символи, такі як 'i' і 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Символи"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Легко сказати"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Легко прочитати"
+  },
+  "radio_happy_label": {
+    "message": "Щасливий"
+  },
+  "radio_strong_label": {
+    "message": "Сильний"
+  },
+  "radio_paranoid_label": {
+    "message": "Параноїк"
+  },
+  "button_generate_label": {
+    "message": "Генерувати"
+  },
+  "estimated_time_to_crack": {
+    "message": "Орієнтовний час злому: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Шаблони"
+  },
+  "legend_options": {
+    "message": "Опції"
+  },
+  "link_like": {
+    "message": "Подобається"
+  },
+  "button_clear": {
+    "message": "Очистити"
+  },
+  "switch_theme": {
+    "message": "Темна"
+  },
+  "about_version_label": {
+    "message": "Версія"
+  },
+  "about_license_label": {
+    "message": "Ліцензія"
+  },
+  "about_author_label": {
+    "message": "Автор"
+  },
+  "about_homepage_label": {
+    "message": "Домашня сторінка"
+  },
+  "about_credits_label": {
+    "message": "Подяки"
+  },
+  "input_range_length_label": {
+    "message": "Довжина"
+  },
+  "switch_save_history_label": {
+    "message": "Зберегти історію"
+  }
+}

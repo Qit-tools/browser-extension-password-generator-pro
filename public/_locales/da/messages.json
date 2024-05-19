@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Adgangskode Generator ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Adgangskode Generator ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Kraftfuld og brugervenlig udvidelse/tilføjelse med PRO-funktioner til tilfældig generering og kontrol af adgangskodesikkerhed."
+  },
+  "tab_main": {
+    "message": "Hovedside"
+  },
+  "tab_history": {
+    "message": "Historik"
+  },
+  "tab_about": {
+    "message": "Om"
+  },
+  "checkbox_uppercase_label": {
+    "message": "STORE BOGSTAVER"
+  },
+  "checkbox_lowercase_label": {
+    "message": "små bogstaver"
+  },
+  "checkbox_numbers_label": {
+    "message": "Tal [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Streng"
+  },
+  "checkbox_strict_description": {
+    "message": "Kræv alle typer tegn."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Ekskluder lignende tegn"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Ekskluder lignende tegn, som 'i' og 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Symboler"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Nem at sige"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Nem at læse"
+  },
+  "radio_happy_label": {
+    "message": "Glad"
+  },
+  "radio_strong_label": {
+    "message": "Stærk"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoid"
+  },
+  "button_generate_label": {
+    "message": "Generer"
+  },
+  "estimated_time_to_crack": {
+    "message": "Anslået tid til at knække: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Forudindstillinger"
+  },
+  "legend_options": {
+    "message": "Indstillinger"
+  },
+  "link_like": {
+    "message": "Synes godt om"
+  },
+  "button_clear": {
+    "message": "Ryd"
+  },
+  "switch_theme": {
+    "message": "Mørk"
+  },
+  "about_version_label": {
+    "message": "Version"
+  },
+  "about_license_label": {
+    "message": "Licens"
+  },
+  "about_author_label": {
+    "message": "Forfatter"
+  },
+  "about_homepage_label": {
+    "message": "Hjemmeside"
+  },
+  "about_credits_label": {
+    "message": "Tak"
+  },
+  "input_range_length_label": {
+    "message": "Længde"
+  },
+  "switch_save_history_label": {
+    "message": "Gem historik"
+  }
+}

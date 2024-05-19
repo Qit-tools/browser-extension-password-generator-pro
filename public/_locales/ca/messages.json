@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Generador de Contrasenyes ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Generador de Contrasenyes ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Extensió/pinzell potent i fàcil d'usar amb funcions PRO per generar aleatòriament i comprovar la seguretat de les contrasenyes."
+  },
+  "tab_main": {
+    "message": "Principal"
+  },
+  "tab_history": {
+    "message": "Historial"
+  },
+  "tab_about": {
+    "message": "Sobre"
+  },
+  "checkbox_uppercase_label": {
+    "message": "MAJÚSCULES"
+  },
+  "checkbox_lowercase_label": {
+    "message": "minúscules"
+  },
+  "checkbox_numbers_label": {
+    "message": "Nombres [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Estricte"
+  },
+  "checkbox_strict_description": {
+    "message": "Exigeix tots els tipus de caràcters."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Desambiguació"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Exclou caràcters similars, com 'i' i 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Símbols"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Fàcil de dir"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Fàcil de llegir"
+  },
+  "radio_happy_label": {
+    "message": "Feliç"
+  },
+  "radio_strong_label": {
+    "message": "Fort"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoic"
+  },
+  "button_generate_label": {
+    "message": "Generar"
+  },
+  "estimated_time_to_crack": {
+    "message": "Temps estimat per trencar: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Preajustaments"
+  },
+  "legend_options": {
+    "message": "Opcions"
+  },
+  "link_like": {
+    "message": "M'agrada"
+  },
+  "button_clear": {
+    "message": "Esborrar"
+  },
+  "switch_theme": {
+    "message": "Fosc"
+  },
+  "about_version_label": {
+    "message": "Versió"
+  },
+  "about_license_label": {
+    "message": "Llicència"
+  },
+  "about_author_label": {
+    "message": "Autor"
+  },
+  "about_homepage_label": {
+    "message": "Pàgina principal"
+  },
+  "about_credits_label": {
+    "message": "Crèdits"
+  },
+  "input_range_length_label": {
+    "message": "Llargada"
+  },
+  "switch_save_history_label": {
+    "message": "Desa l'historial"
+  }
+}

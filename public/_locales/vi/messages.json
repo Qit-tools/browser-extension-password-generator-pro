@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Trình Tạo Mật Khẩu ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Trình Tạo Mật Khẩu ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Tiện ích mở rộng/bổ sung mạnh mẽ và thân thiện với người dùng với các tính năng PRO để tạo ngẫu nhiên và kiểm tra độ bảo mật của mật khẩu."
+  },
+  "tab_main": {
+    "message": "Chính"
+  },
+  "tab_history": {
+    "message": "Lịch sử"
+  },
+  "tab_about": {
+    "message": "Giới thiệu"
+  },
+  "checkbox_uppercase_label": {
+    "message": "CHỮ IN HOA"
+  },
+  "checkbox_lowercase_label": {
+    "message": "chữ thường"
+  },
+  "checkbox_numbers_label": {
+    "message": "Số [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Nghiêm ngặt"
+  },
+  "checkbox_strict_description": {
+    "message": "Áp dụng tất cả các loại ký tự."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Loại trừ các ký tự tương tự"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Loại trừ các ký tự tương tự, chẳng hạn như 'i' và 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Ký hiệu"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Dễ nói"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Dễ đọc"
+  },
+  "radio_happy_label": {
+    "message": "Hạnh phúc"
+  },
+  "radio_strong_label": {
+    "message": "Mạnh mẽ"
+  },
+  "radio_paranoid_label": {
+    "message": "Hoang tưởng"
+  },
+  "button_generate_label": {
+    "message": "Tạo"
+  },
+  "estimated_time_to_crack": {
+    "message": "Thời gian ước tính để crack: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Thiết lập sẵn"
+  },
+  "legend_options": {
+    "message": "Tùy chọn"
+  },
+  "link_like": {
+    "message": "Thích"
+  },
+  "button_clear": {
+    "message": "Xóa"
+  },
+  "switch_theme": {
+    "message": "Tối"
+  },
+  "about_version_label": {
+    "message": "Phiên bản"
+  },
+  "about_license_label": {
+    "message": "Giấy phép"
+  },
+  "about_author_label": {
+    "message": "Tác giả"
+  },
+  "about_homepage_label": {
+    "message": "Trang chủ"
+  },
+  "about_credits_label": {
+    "message": "Lời cảm ơn"
+  },
+  "input_range_length_label": {
+    "message": "Chiều dài"
+  },
+  "switch_save_history_label": {
+    "message": "Lưu lịch sử"
+  }
+}

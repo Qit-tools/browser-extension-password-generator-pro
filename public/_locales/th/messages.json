@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "ตัวสร้างรหัสผ่าน ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "ตัวสร้างรหัสผ่าน ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "ส่วนขยาย/แอดออนที่ทรงพลังและใช้งานง่ายพร้อมคุณสมบัติ PRO สำหรับการสร้างรหัสผ่านแบบสุ่มและตรวจสอบความปลอดภัยของรหัสผ่าน."
+  },
+  "tab_main": {
+    "message": "หลัก"
+  },
+  "tab_history": {
+    "message": "ประวัติ"
+  },
+  "tab_about": {
+    "message": "เกี่ยวกับ"
+  },
+  "checkbox_uppercase_label": {
+    "message": "ตัวพิมพ์ใหญ่"
+  },
+  "checkbox_lowercase_label": {
+    "message": "ตัวพิมพ์เล็ก"
+  },
+  "checkbox_numbers_label": {
+    "message": "ตัวเลข [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "เคร่งครัด"
+  },
+  "checkbox_strict_description": {
+    "message": "บังคับใช้ทุกประเภทตัวอักษร."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "แยกอักขระที่คล้ายกัน"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "แยกอักขระที่คล้ายกัน เช่น 'i' และ 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "สัญลักษณ์"
+  },
+  "radio_easy_to_say_label": {
+    "message": "ง่ายต่อการพูด"
+  },
+  "radio_easy_to_read_label": {
+    "message": "ง่ายต่อการอ่าน"
+  },
+  "radio_happy_label": {
+    "message": "มีความสุข"
+  },
+  "radio_strong_label": {
+    "message": "แข็งแกร่ง"
+  },
+  "radio_paranoid_label": {
+    "message": "วิตกกังวล"
+  },
+  "button_generate_label": {
+    "message": "สร้าง"
+  },
+  "estimated_time_to_crack": {
+    "message": "เวลาประเมินในการแคร็ก: {{time}}."
+  },
+  "legend_preset": {
+    "message": "การตั้งค่าล่วงหน้า"
+  },
+  "legend_options": {
+    "message": "ตัวเลือก"
+  },
+  "link_like": {
+    "message": "ถูกใจ"
+  },
+  "button_clear": {
+    "message": "ล้าง"
+  },
+  "switch_theme": {
+    "message": "มืด"
+  },
+  "about_version_label": {
+    "message": "เวอร์ชัน"
+  },
+  "about_license_label": {
+    "message": "ใบอนุญาต"
+  },
+  "about_author_label": {
+    "message": "ผู้เขียน"
+  },
+  "about_homepage_label": {
+    "message": "โฮมเพจ"
+  },
+  "about_credits_label": {
+    "message": "เครดิต"
+  },
+  "input_range_length_label": {
+    "message": "ความยาว"
+  },
+  "switch_save_history_label": {
+    "message": "บันทึกประวัติ"
+  }
+}

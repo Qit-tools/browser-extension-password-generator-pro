@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Lösenordsgenerator ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Lösenordsgenerator ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Kraftfull och användarvänlig förlängning/tillägg med PRO-funktioner för att slumpmässigt generera och kontrollera lösenordsäkerhet."
+  },
+  "tab_main": {
+    "message": "Huvud"
+  },
+  "tab_history": {
+    "message": "Historik"
+  },
+  "tab_about": {
+    "message": "Om"
+  },
+  "checkbox_uppercase_label": {
+    "message": "VERSALER"
+  },
+  "checkbox_lowercase_label": {
+    "message": "gemener"
+  },
+  "checkbox_numbers_label": {
+    "message": "Siffror [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Strikt"
+  },
+  "checkbox_strict_description": {
+    "message": "Tvinga alla teckentyper."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Uteslut liknande tecken"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Uteslut liknande tecken, som 'i' och 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Symboler"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Lätt att säga"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Lätt att läsa"
+  },
+  "radio_happy_label": {
+    "message": "Glad"
+  },
+  "radio_strong_label": {
+    "message": "Stark"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoid"
+  },
+  "button_generate_label": {
+    "message": "Generera"
+  },
+  "estimated_time_to_crack": {
+    "message": "Beräknad tid att knäcka: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Förinställningar"
+  },
+  "legend_options": {
+    "message": "Alternativ"
+  },
+  "link_like": {
+    "message": "Gilla"
+  },
+  "button_clear": {
+    "message": "Rensa"
+  },
+  "switch_theme": {
+    "message": "Mörk"
+  },
+  "about_version_label": {
+    "message": "Version"
+  },
+  "about_license_label": {
+    "message": "Licens"
+  },
+  "about_author_label": {
+    "message": "Författare"
+  },
+  "about_homepage_label": {
+    "message": "Hemsida"
+  },
+  "about_credits_label": {
+    "message": "Tack till"
+  },
+  "input_range_length_label": {
+    "message": "Längd"
+  },
+  "switch_save_history_label": {
+    "message": "Spara historik"
+  }
+}

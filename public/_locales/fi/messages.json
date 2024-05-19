@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Salasanageneraattori ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Salasanageneraattori ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Tehokas ja käyttäjäystävällinen laajennus/lisäosa, jossa on PRO-ominaisuudet salasanojen satunnaiseen luomiseen ja turvallisuuden tarkistamiseen."
+  },
+  "tab_main": {
+    "message": "Päävalikko"
+  },
+  "tab_history": {
+    "message": "Historia"
+  },
+  "tab_about": {
+    "message": "Tietoja"
+  },
+  "checkbox_uppercase_label": {
+    "message": "ISOT KIRJAIMET"
+  },
+  "checkbox_lowercase_label": {
+    "message": "pienet kirjaimet"
+  },
+  "checkbox_numbers_label": {
+    "message": "Numerot [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Tiukka"
+  },
+  "checkbox_strict_description": {
+    "message": "Pakota kaikki merkkityypit."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Poista samanlaiset merkit"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Poista samanlaiset merkit, kuten 'i' ja 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Symbolit"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Helppo sanoa"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Helppo lukea"
+  },
+  "radio_happy_label": {
+    "message": "Iloinen"
+  },
+  "radio_strong_label": {
+    "message": "Vahva"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoidinen"
+  },
+  "button_generate_label": {
+    "message": "Luo"
+  },
+  "estimated_time_to_crack": {
+    "message": "Arvioitu murtamisaika: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Esiasetukset"
+  },
+  "legend_options": {
+    "message": "Asetukset"
+  },
+  "link_like": {
+    "message": "Tykkää"
+  },
+  "button_clear": {
+    "message": "Tyhjennä"
+  },
+  "switch_theme": {
+    "message": "Tumma"
+  },
+  "about_version_label": {
+    "message": "Versio"
+  },
+  "about_license_label": {
+    "message": "Lisenssi"
+  },
+  "about_author_label": {
+    "message": "Tekijä"
+  },
+  "about_homepage_label": {
+    "message": "Kotisivu"
+  },
+  "about_credits_label": {
+    "message": "Kiitokset"
+  },
+  "input_range_length_label": {
+    "message": "Pituus"
+  },
+  "switch_save_history_label": {
+    "message": "Tallenna historia"
+  }
+}

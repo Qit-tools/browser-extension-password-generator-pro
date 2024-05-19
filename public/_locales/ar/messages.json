@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "مولد كلمات المرور ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "مولد كلمات المرور ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "إضافة قوية وسهلة الاستخدام مع ميزات PRO لتوليد كلمات المرور العشوائية والتحقق من أمانها."
+  },
+  "tab_main": {
+    "message": "الرئيسية"
+  },
+  "tab_history": {
+    "message": "السجل"
+  },
+  "tab_about": {
+    "message": "حول"
+  },
+  "checkbox_uppercase_label": {
+    "message": "أحرف كبيرة"
+  },
+  "checkbox_lowercase_label": {
+    "message": "أحرف صغيرة"
+  },
+  "checkbox_numbers_label": {
+    "message": "أرقام [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "صارم"
+  },
+  "checkbox_strict_description": {
+    "message": "فرض استخدام جميع أنواع الأحرف."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "استبعاد الأحرف المتشابهة"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "استبعاد الأحرف المتشابهة مثل 'i' و 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "رموز"
+  },
+  "radio_easy_to_say_label": {
+    "message": "سهل القول"
+  },
+  "radio_easy_to_read_label": {
+    "message": "سهل القراءة"
+  },
+  "radio_happy_label": {
+    "message": "سعيد"
+  },
+  "radio_strong_label": {
+    "message": "قوي"
+  },
+  "radio_paranoid_label": {
+    "message": "مرتاب"
+  },
+  "button_generate_label": {
+    "message": "توليد"
+  },
+  "estimated_time_to_crack": {
+    "message": "الوقت المتوقع للكسر: {{time}}."
+  },
+  "legend_preset": {
+    "message": "إعدادات مسبقة"
+  },
+  "legend_options": {
+    "message": "خيارات"
+  },
+  "link_like": {
+    "message": "إعجاب"
+  },
+  "button_clear": {
+    "message": "مسح"
+  },
+  "switch_theme": {
+    "message": "مظلم"
+  },
+  "about_version_label": {
+    "message": "الإصدار"
+  },
+  "about_license_label": {
+    "message": "الترخيص"
+  },
+  "about_author_label": {
+    "message": "المؤلف"
+  },
+  "about_homepage_label": {
+    "message": "الصفحة الرئيسية"
+  },
+  "about_credits_label": {
+    "message": "الشكر"
+  },
+  "input_range_length_label": {
+    "message": "الطول"
+  },
+  "switch_save_history_label": {
+    "message": "حفظ السجل"
+  }
+}

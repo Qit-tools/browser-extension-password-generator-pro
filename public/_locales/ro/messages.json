@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Generator de Parole ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Generator de Parole ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Extensie/adăugare puternică și ușor de utilizat, cu funcții PRO pentru generarea aleatorie și verificarea securității parolelor."
+  },
+  "tab_main": {
+    "message": "Principal"
+  },
+  "tab_history": {
+    "message": "Istoric"
+  },
+  "tab_about": {
+    "message": "Despre"
+  },
+  "checkbox_uppercase_label": {
+    "message": "MAJUSCULE"
+  },
+  "checkbox_lowercase_label": {
+    "message": "minuscule"
+  },
+  "checkbox_numbers_label": {
+    "message": "Numere [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Strict"
+  },
+  "checkbox_strict_description": {
+    "message": "Aplică toate tipurile de caractere."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Exclude caractere similare"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Exclude caractere similare, cum ar fi 'i' și 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Simboluri"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Ușor de spus"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Ușor de citit"
+  },
+  "radio_happy_label": {
+    "message": "Fericit"
+  },
+  "radio_strong_label": {
+    "message": "Puternic"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoid"
+  },
+  "button_generate_label": {
+    "message": "Generează"
+  },
+  "estimated_time_to_crack": {
+    "message": "Timp estimat de spargere: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Presetări"
+  },
+  "legend_options": {
+    "message": "Opțiuni"
+  },
+  "link_like": {
+    "message": "Îmi place"
+  },
+  "button_clear": {
+    "message": "Șterge"
+  },
+  "switch_theme": {
+    "message": "Întunecat"
+  },
+  "about_version_label": {
+    "message": "Versiune"
+  },
+  "about_license_label": {
+    "message": "Licență"
+  },
+  "about_author_label": {
+    "message": "Autor"
+  },
+  "about_homepage_label": {
+    "message": "Pagina principală"
+  },
+  "about_credits_label": {
+    "message": "Credite"
+  },
+  "input_range_length_label": {
+    "message": "Lungime"
+  },
+  "switch_save_history_label": {
+    "message": "Salvează istoricul"
+  }
+}

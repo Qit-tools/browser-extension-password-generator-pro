@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "パスワードジェネレーター ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "パスワードジェネレーター ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "強力でユーザーフレンドリーな拡張機能/アドオンで、PRO機能を備えたパスワードのランダム生成とセキュリティチェックが可能です。"
+  },
+  "tab_main": {
+    "message": "メイン"
+  },
+  "tab_history": {
+    "message": "履歴"
+  },
+  "tab_about": {
+    "message": "情報"
+  },
+  "checkbox_uppercase_label": {
+    "message": "大文字"
+  },
+  "checkbox_lowercase_label": {
+    "message": "小文字"
+  },
+  "checkbox_numbers_label": {
+    "message": "数字 [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "厳格"
+  },
+  "checkbox_strict_description": {
+    "message": "すべての文字タイプを適用する。"
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "類似文字を除外する"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "類似文字を除外する（例：'i'と'l'）。"
+  },
+  "checkbox_symbols_label": {
+    "message": "記号"
+  },
+  "radio_easy_to_say_label": {
+    "message": "言いやすい"
+  },
+  "radio_easy_to_read_label": {
+    "message": "読みやすい"
+  },
+  "radio_happy_label": {
+    "message": "幸せ"
+  },
+  "radio_strong_label": {
+    "message": "強い"
+  },
+  "radio_paranoid_label": {
+    "message": "偏執的"
+  },
+  "button_generate_label": {
+    "message": "生成"
+  },
+  "estimated_time_to_crack": {
+    "message": "推定クラック時間：{{time}}。"
+  },
+  "legend_preset": {
+    "message": "プリセット"
+  },
+  "legend_options": {
+    "message": "オプション"
+  },
+  "link_like": {
+    "message": "いいね"
+  },
+  "button_clear": {
+    "message": "クリア"
+  },
+  "switch_theme": {
+    "message": "ダーク"
+  },
+  "about_version_label": {
+    "message": "バージョン"
+  },
+  "about_license_label": {
+    "message": "ライセンス"
+  },
+  "about_author_label": {
+    "message": "著者"
+  },
+  "about_homepage_label": {
+    "message": "ホームページ"
+  },
+  "about_credits_label": {
+    "message": "クレジット"
+  },
+  "input_range_length_label": {
+    "message": "長さ"
+  },
+  "switch_save_history_label": {
+    "message": "履歴を保存"
+  }
+}

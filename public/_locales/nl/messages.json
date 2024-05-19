@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Wachtwoord Generator ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Wachtwoord Generator ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Krachtige en gebruiksvriendelijke extensie/add-on met PRO functies voor het willekeurig genereren en controleren van wachtwoordbeveiliging."
+  },
+  "tab_main": {
+    "message": "Hoofd"
+  },
+  "tab_history": {
+    "message": "Geschiedenis"
+  },
+  "tab_about": {
+    "message": "Over"
+  },
+  "checkbox_uppercase_label": {
+    "message": "HOOFDLETTERS"
+  },
+  "checkbox_lowercase_label": {
+    "message": "kleine letters"
+  },
+  "checkbox_numbers_label": {
+    "message": "Cijfers [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Strikt"
+  },
+  "checkbox_strict_description": {
+    "message": "Forceer alle tekentypes."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Vergelijkbare tekens uitsluiten"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Vergelijkbare tekens uitsluiten, zoals 'i' en 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Symbolen"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Makkelijk te zeggen"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Makkelijk te lezen"
+  },
+  "radio_happy_label": {
+    "message": "Gelukkig"
+  },
+  "radio_strong_label": {
+    "message": "Sterk"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoïde"
+  },
+  "button_generate_label": {
+    "message": "Genereren"
+  },
+  "estimated_time_to_crack": {
+    "message": "Geschatte tijd om te kraken: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Voorinstellingen"
+  },
+  "legend_options": {
+    "message": "Opties"
+  },
+  "link_like": {
+    "message": "Vind ik leuk"
+  },
+  "button_clear": {
+    "message": "Wissen"
+  },
+  "switch_theme": {
+    "message": "Donker"
+  },
+  "about_version_label": {
+    "message": "Versie"
+  },
+  "about_license_label": {
+    "message": "Licentie"
+  },
+  "about_author_label": {
+    "message": "Auteur"
+  },
+  "about_homepage_label": {
+    "message": "Startpagina"
+  },
+  "about_credits_label": {
+    "message": "Credits"
+  },
+  "input_range_length_label": {
+    "message": "Lengte"
+  },
+  "switch_save_history_label": {
+    "message": "Geschiedenis opslaan"
+  }
+}

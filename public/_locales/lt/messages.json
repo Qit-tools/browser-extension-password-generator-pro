@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Slaptažodžių Generatorius ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Slaptažodžių Generatorius ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Galingas ir patogus naudoti plėtinys/priedas su PRO funkcijomis atsitiktiniams slaptažodžiams generuoti ir jų saugumui tikrinti."
+  },
+  "tab_main": {
+    "message": "Pagrindinis"
+  },
+  "tab_history": {
+    "message": "Istorija"
+  },
+  "tab_about": {
+    "message": "Apie"
+  },
+  "checkbox_uppercase_label": {
+    "message": "DIDŽIOSIOS RAIDĖS"
+  },
+  "checkbox_lowercase_label": {
+    "message": "mažosios raidės"
+  },
+  "checkbox_numbers_label": {
+    "message": "Skaičiai [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Griežtas"
+  },
+  "checkbox_strict_description": {
+    "message": "Taikyti visus simbolių tipus."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Pašalinti panašius simbolius"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Pašalinti panašius simbolius, pvz., 'i' ir 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Simboliai"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Lengva pasakyti"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Lengva skaityti"
+  },
+  "radio_happy_label": {
+    "message": "Laimingas"
+  },
+  "radio_strong_label": {
+    "message": "Stiprus"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranojiškas"
+  },
+  "button_generate_label": {
+    "message": "Generuoti"
+  },
+  "estimated_time_to_crack": {
+    "message": "Numatomas įsilaužimo laikas: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Išankstiniai nustatymai"
+  },
+  "legend_options": {
+    "message": "Parinktys"
+  },
+  "link_like": {
+    "message": "Patinka"
+  },
+  "button_clear": {
+    "message": "Išvalyti"
+  },
+  "switch_theme": {
+    "message": "Tamsus"
+  },
+  "about_version_label": {
+    "message": "Versija"
+  },
+  "about_license_label": {
+    "message": "Licencija"
+  },
+  "about_author_label": {
+    "message": "Autorius"
+  },
+  "about_homepage_label": {
+    "message": "Pagrindinis puslapis"
+  },
+  "about_credits_label": {
+    "message": "Dėkojame"
+  },
+  "input_range_length_label": {
+    "message": "Ilgis"
+  },
+  "switch_save_history_label": {
+    "message": "Išsaugoti istoriją"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Generador de Contraseñas ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Generador de Contraseñas ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Extensión/complemento potente y fácil de usar con funciones PRO para generar contraseñas al azar y verificar su seguridad."
+  },
+  "tab_main": {
+    "message": "Principal"
+  },
+  "tab_history": {
+    "message": "Historial"
+  },
+  "tab_about": {
+    "message": "Acerca de"
+  },
+  "checkbox_uppercase_label": {
+    "message": "MAYÚSCULAS"
+  },
+  "checkbox_lowercase_label": {
+    "message": "minúsculas"
+  },
+  "checkbox_numbers_label": {
+    "message": "Números [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Estricto"
+  },
+  "checkbox_strict_description": {
+    "message": "Requiere todos los tipos de caracteres."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Excluir caracteres similares"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Excluir caracteres similares, como 'i' y 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Símbolos"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Fácil de decir"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Fácil de leer"
+  },
+  "radio_happy_label": {
+    "message": "Feliz"
+  },
+  "radio_strong_label": {
+    "message": "Fuerte"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoico"
+  },
+  "button_generate_label": {
+    "message": "Generar"
+  },
+  "estimated_time_to_crack": {
+    "message": "Tiempo estimado para descifrar: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Preajustes"
+  },
+  "legend_options": {
+    "message": "Opciones"
+  },
+  "link_like": {
+    "message": "Me gusta"
+  },
+  "button_clear": {
+    "message": "Borrar"
+  },
+  "switch_theme": {
+    "message": "Oscuro"
+  },
+  "about_version_label": {
+    "message": "Versión"
+  },
+  "about_license_label": {
+    "message": "Licencia"
+  },
+  "about_author_label": {
+    "message": "Autor"
+  },
+  "about_homepage_label": {
+    "message": "Página principal"
+  },
+  "about_credits_label": {
+    "message": "Créditos"
+  },
+  "input_range_length_label": {
+    "message": "Longitud"
+  },
+  "switch_save_history_label": {
+    "message": "Guardar historial"
+  }
+}

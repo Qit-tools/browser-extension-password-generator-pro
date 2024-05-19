@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Generator Lozinki ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Generator Lozinki ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Snažan i jednostavan za korištenje proširenje/dodatak s PRO značajkama za nasumično generiranje i provjeru sigurnosti lozinki."
+  },
+  "tab_main": {
+    "message": "Glavna"
+  },
+  "tab_history": {
+    "message": "Povijest"
+  },
+  "tab_about": {
+    "message": "O aplikaciji"
+  },
+  "checkbox_uppercase_label": {
+    "message": "VELIKA SLOVA"
+  },
+  "checkbox_lowercase_label": {
+    "message": "mala slova"
+  },
+  "checkbox_numbers_label": {
+    "message": "Brojevi [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Strogo"
+  },
+  "checkbox_strict_description": {
+    "message": "Primijeni sve vrste znakova."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Izbjegavanje sličnih znakova"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Izbjegavanje sličnih znakova, kao što su 'i' i 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Simboli"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Lako za reći"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Lako za čitanje"
+  },
+  "radio_happy_label": {
+    "message": "Sretan"
+  },
+  "radio_strong_label": {
+    "message": "Jak"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoičan"
+  },
+  "button_generate_label": {
+    "message": "Generiraj"
+  },
+  "estimated_time_to_crack": {
+    "message": "Procijenjeno vrijeme za probijanje: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Unaprijed postavljeno"
+  },
+  "legend_options": {
+    "message": "Opcije"
+  },
+  "link_like": {
+    "message": "Sviđa mi se"
+  },
+  "button_clear": {
+    "message": "Očisti"
+  },
+  "switch_theme": {
+    "message": "Tamna"
+  },
+  "about_version_label": {
+    "message": "Verzija"
+  },
+  "about_license_label": {
+    "message": "Licenca"
+  },
+  "about_author_label": {
+    "message": "Autor"
+  },
+  "about_homepage_label": {
+    "message": "Početna stranica"
+  },
+  "about_credits_label": {
+    "message": "Zasluge"
+  },
+  "input_range_length_label": {
+    "message": "Duljina"
+  },
+  "switch_save_history_label": {
+    "message": "Spremi povijest"
+  }
+}

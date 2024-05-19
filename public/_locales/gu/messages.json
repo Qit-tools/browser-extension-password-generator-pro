@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "પાસવર્ડ જનરેટર ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "પાસવર્ડ જનરેટર ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "શક્તિશાળી અને વપરાશકર્તા અનુકૂળ એક્સટેન્શન/ઍડ-ઓન, જેમાં પ્રો ફીચર્સ છે, પાસવર્ડની સુરક્ષા માટે રેન્ડમ પદ્ધતિથી જનરેટ કરવું અને ચકાસવું."
+  },
+  "tab_main": {
+    "message": "મુખ્ય"
+  },
+  "tab_history": {
+    "message": "ઇતિહાસ"
+  },
+  "tab_about": {
+    "message": "વિશે"
+  },
+  "checkbox_uppercase_label": {
+    "message": "મોટા અક્ષર"
+  },
+  "checkbox_lowercase_label": {
+    "message": "નાના અક્ષર"
+  },
+  "checkbox_numbers_label": {
+    "message": "આંકડાઓ [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "કઠોર"
+  },
+  "checkbox_strict_description": {
+    "message": "બધા પ્રકારના અક્ષરોને બળજબરી કરવી."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "સમાન અક્ષરોને બહાર કરો"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "સમાન અક્ષરોને બહાર કરો, જેમ કે 'i' અને 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "પ્રતીકો"
+  },
+  "radio_easy_to_say_label": {
+    "message": "કહેવું સરળ"
+  },
+  "radio_easy_to_read_label": {
+    "message": "વાંચવું સરળ"
+  },
+  "radio_happy_label": {
+    "message": "ખુશ"
+  },
+  "radio_strong_label": {
+    "message": "મજબૂત"
+  },
+  "radio_paranoid_label": {
+    "message": "ભયભીત"
+  },
+  "button_generate_label": {
+    "message": "જનરેટ કરો"
+  },
+  "estimated_time_to_crack": {
+    "message": "ફોડવાનો અંદાજિત સમય: {{time}}."
+  },
+  "legend_preset": {
+    "message": "પ્રીસેટ્સ"
+  },
+  "legend_options": {
+    "message": "વિકલ્પો"
+  },
+  "link_like": {
+    "message": "ગમ્યું"
+  },
+  "button_clear": {
+    "message": "સાફ કરો"
+  },
+  "switch_theme": {
+    "message": "અંધારું"
+  },
+  "about_version_label": {
+    "message": "આવૃત્તિ"
+  },
+  "about_license_label": {
+    "message": "લાઇસન્સ"
+  },
+  "about_author_label": {
+    "message": "લેખક"
+  },
+  "about_homepage_label": {
+    "message": "મુખ્ય પૃષ્ઠ"
+  },
+  "about_credits_label": {
+    "message": "કૃતજ્ઞતા"
+  },
+  "input_range_length_label": {
+    "message": "લંબાઈ"
+  },
+  "switch_save_history_label": {
+    "message": "ઇતિહાસ સાચવો"
+  }
+}

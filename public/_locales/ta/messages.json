@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "கடவுச்சொல் உருவாக்கி ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "கடவுச்சொல் உருவாக்கி ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "அதிக சக்தி மிக்க மற்றும் பயனர் நட்பு விரிவாக்கம்/சேர்க்கை, மறக்கமுடியாத முறையில் கடவுச்சொற்களை உருவாக்க மற்றும் அவற்றின் பாதுகாப்பை சரிபார்க்க PRO அம்சங்களுடன்."
+  },
+  "tab_main": {
+    "message": "முக்கிய"
+  },
+  "tab_history": {
+    "message": "வரலாறு"
+  },
+  "tab_about": {
+    "message": "பற்றி"
+  },
+  "checkbox_uppercase_label": {
+    "message": "பெரிய எழுத்துகள்"
+  },
+  "checkbox_lowercase_label": {
+    "message": "சிறிய எழுத்துகள்"
+  },
+  "checkbox_numbers_label": {
+    "message": "எண்கள் [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "கடுமையான"
+  },
+  "checkbox_strict_description": {
+    "message": "அனைத்து எழுத்துக்களின் வகைகளையும் கையாளுக."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "சமமான எழுத்துக்களை நீக்குக"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "சமமான எழுத்துக்களை நீக்குக, எடுத்துக்காட்டாக 'i' மற்றும் 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "சின்னங்கள்"
+  },
+  "radio_easy_to_say_label": {
+    "message": "சொல்ல எளிது"
+  },
+  "radio_easy_to_read_label": {
+    "message": "வாசிக்க எளிது"
+  },
+  "radio_happy_label": {
+    "message": "மகிழ்ச்சி"
+  },
+  "radio_strong_label": {
+    "message": "வலிமையான"
+  },
+  "radio_paranoid_label": {
+    "message": "பரநாயியா"
+  },
+  "button_generate_label": {
+    "message": "உருவாக்கு"
+  },
+  "estimated_time_to_crack": {
+    "message": "கிராக் செய்ய மதிப்பீடு செய்த நேரம்: {{time}}."
+  },
+  "legend_preset": {
+    "message": "முந்தைய அமைப்புகள்"
+  },
+  "legend_options": {
+    "message": "விருப்பங்கள்"
+  },
+  "link_like": {
+    "message": "பிடித்தது"
+  },
+  "button_clear": {
+    "message": "அழிக்கவும்"
+  },
+  "switch_theme": {
+    "message": "கருப்பு"
+  },
+  "about_version_label": {
+    "message": "பதிப்பு"
+  },
+  "about_license_label": {
+    "message": "உரிமம்"
+  },
+  "about_author_label": {
+    "message": "ஆசிரியர்"
+  },
+  "about_homepage_label": {
+    "message": "முதற் பக்கம்"
+  },
+  "about_credits_label": {
+    "message": "கிரெடிட்கள்"
+  },
+  "input_range_length_label": {
+    "message": "நீளம்"
+  },
+  "switch_save_history_label": {
+    "message": "வரலாற்றை சேமிக்கவும்"
+  }
+}

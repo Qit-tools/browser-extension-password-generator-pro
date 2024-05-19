@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "מחולל סיסמאות ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "מחולל סיסמאות ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "תוסף/הרחבה חזקים וידידותיים למשתמש עם תכונות PRO ליצירת סיסמאות אקראיות ובדיקת אבטחתן."
+  },
+  "tab_main": {
+    "message": "ראשי"
+  },
+  "tab_history": {
+    "message": "היסטוריה"
+  },
+  "tab_about": {
+    "message": "אודות"
+  },
+  "checkbox_uppercase_label": {
+    "message": "אותיות גדולות"
+  },
+  "checkbox_lowercase_label": {
+    "message": "אותיות קטנות"
+  },
+  "checkbox_numbers_label": {
+    "message": "מספרים [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "קפדני"
+  },
+  "checkbox_strict_description": {
+    "message": "החלת כל סוגי התווים."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "הוצאת תווים דומים"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "הוצאת תווים דומים, כגון 'i' ו-'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "סמלים"
+  },
+  "radio_easy_to_say_label": {
+    "message": "קל לומר"
+  },
+  "radio_easy_to_read_label": {
+    "message": "קל לקרוא"
+  },
+  "radio_happy_label": {
+    "message": "שמח"
+  },
+  "radio_strong_label": {
+    "message": "חזק"
+  },
+  "radio_paranoid_label": {
+    "message": "פרנואיד"
+  },
+  "button_generate_label": {
+    "message": "יצירה"
+  },
+  "estimated_time_to_crack": {
+    "message": "זמן משוער לפריצה: {{time}}."
+  },
+  "legend_preset": {
+    "message": "הגדרות מוקדמות"
+  },
+  "legend_options": {
+    "message": "אפשרויות"
+  },
+  "link_like": {
+    "message": "אהבתי"
+  },
+  "button_clear": {
+    "message": "ניקוי"
+  },
+  "switch_theme": {
+    "message": "כהה"
+  },
+  "about_version_label": {
+    "message": "גרסה"
+  },
+  "about_license_label": {
+    "message": "רישיון"
+  },
+  "about_author_label": {
+    "message": "מחבר"
+  },
+  "about_homepage_label": {
+    "message": "דף הבית"
+  },
+  "about_credits_label": {
+    "message": "קרדיטים"
+  },
+  "input_range_length_label": {
+    "message": "אורך"
+  },
+  "switch_save_history_label": {
+    "message": "שמירת היסטוריה"
+  }
+}

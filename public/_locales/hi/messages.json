@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "पासवर्ड जनरेटर ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "पासवर्ड जनरेटर ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "शक्तिशाली और उपयोगकर्ता के अनुकूल विस्तार/ऐड-ऑन जो प्रो सुविधाओं के साथ है, यादृच्छिक रूप से पासवर्ड उत्पन्न करने और उनकी सुरक्षा की जाँच करने के लिए।"
+  },
+  "tab_main": {
+    "message": "मुख्य"
+  },
+  "tab_history": {
+    "message": "इतिहास"
+  },
+  "tab_about": {
+    "message": "के बारे में"
+  },
+  "checkbox_uppercase_label": {
+    "message": "बड़े अक्षर"
+  },
+  "checkbox_lowercase_label": {
+    "message": "छोटे अक्षर"
+  },
+  "checkbox_numbers_label": {
+    "message": "संख्या [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "सख्त"
+  },
+  "checkbox_strict_description": {
+    "message": "सभी प्रकार के वर्ण लागू करें।"
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "समान वर्णों को बाहर करें"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "समान वर्णों को बाहर करें, जैसे 'i' और 'l'।"
+  },
+  "checkbox_symbols_label": {
+    "message": "प्रतीक"
+  },
+  "radio_easy_to_say_label": {
+    "message": "कहने में आसान"
+  },
+  "radio_easy_to_read_label": {
+    "message": "पढ़ने में आसान"
+  },
+  "radio_happy_label": {
+    "message": "खुश"
+  },
+  "radio_strong_label": {
+    "message": "मजबूत"
+  },
+  "radio_paranoid_label": {
+    "message": "संदेहशील"
+  },
+  "button_generate_label": {
+    "message": "उत्पन्न करें"
+  },
+  "estimated_time_to_crack": {
+    "message": "क्रैक करने का अनुमानित समय: {{time}}."
+  },
+  "legend_preset": {
+    "message": "पूर्वनिर्धारित"
+  },
+  "legend_options": {
+    "message": "विकल्प"
+  },
+  "link_like": {
+    "message": "पसंद"
+  },
+  "button_clear": {
+    "message": "साफ करें"
+  },
+  "switch_theme": {
+    "message": "डार्क"
+  },
+  "about_version_label": {
+    "message": "संस्करण"
+  },
+  "about_license_label": {
+    "message": "लाइसेंस"
+  },
+  "about_author_label": {
+    "message": "लेखक"
+  },
+  "about_homepage_label": {
+    "message": "मुख्य पृष्ठ"
+  },
+  "about_credits_label": {
+    "message": "श्रेय"
+  },
+  "input_range_length_label": {
+    "message": "लंबाई"
+  },
+  "switch_save_history_label": {
+    "message": "इतिहास सहेजें"
+  }
+}

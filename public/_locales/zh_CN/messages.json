@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "密码生成器 ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "密码生成器 ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "强大且用户友好的扩展/插件，具有PRO功能，用于随机生成和检查密码安全性。"
+  },
+  "tab_main": {
+    "message": "主要"
+  },
+  "tab_history": {
+    "message": "历史记录"
+  },
+  "tab_about": {
+    "message": "关于"
+  },
+  "checkbox_uppercase_label": {
+    "message": "大写字母"
+  },
+  "checkbox_lowercase_label": {
+    "message": "小写字母"
+  },
+  "checkbox_numbers_label": {
+    "message": "数字 [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "严格"
+  },
+  "checkbox_strict_description": {
+    "message": "强制使用所有字符类型。"
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "排除相似字符"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "排除相似字符，如'i'和'l'。"
+  },
+  "checkbox_symbols_label": {
+    "message": "符号"
+  },
+  "radio_easy_to_say_label": {
+    "message": "易于说出"
+  },
+  "radio_easy_to_read_label": {
+    "message": "易于阅读"
+  },
+  "radio_happy_label": {
+    "message": "快乐"
+  },
+  "radio_strong_label": {
+    "message": "强大"
+  },
+  "radio_paranoid_label": {
+    "message": "偏执"
+  },
+  "button_generate_label": {
+    "message": "生成"
+  },
+  "estimated_time_to_crack": {
+    "message": "预计破解时间：{{time}}。"
+  },
+  "legend_preset": {
+    "message": "预设"
+  },
+  "legend_options": {
+    "message": "选项"
+  },
+  "link_like": {
+    "message": "喜欢"
+  },
+  "button_clear": {
+    "message": "清除"
+  },
+  "switch_theme": {
+    "message": "黑暗"
+  },
+  "about_version_label": {
+    "message": "版本"
+  },
+  "about_license_label": {
+    "message": "许可证"
+  },
+  "about_author_label": {
+    "message": "作者"
+  },
+  "about_homepage_label": {
+    "message": "主页"
+  },
+  "about_credits_label": {
+    "message": "鸣谢"
+  },
+  "input_range_length_label": {
+    "message": "长度"
+  },
+  "switch_save_history_label": {
+    "message": "保存历史记录"
+  }
+}

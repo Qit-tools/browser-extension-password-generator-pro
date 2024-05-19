@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Generatore di Password ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Generatore di Password ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Estensione/componente aggiuntivo potente e facile da usare con funzionalità PRO per generare casualmente e verificare la sicurezza delle password."
+  },
+  "tab_main": {
+    "message": "Principale"
+  },
+  "tab_history": {
+    "message": "Cronologia"
+  },
+  "tab_about": {
+    "message": "Informazioni"
+  },
+  "checkbox_uppercase_label": {
+    "message": "MAIUSCOLE"
+  },
+  "checkbox_lowercase_label": {
+    "message": "minuscole"
+  },
+  "checkbox_numbers_label": {
+    "message": "Numeri [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Rigoroso"
+  },
+  "checkbox_strict_description": {
+    "message": "Forza tutti i tipi di caratteri."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Escludi caratteri simili"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Escludi caratteri simili, come 'i' e 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Simboli"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Facile da dire"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Facile da leggere"
+  },
+  "radio_happy_label": {
+    "message": "Felice"
+  },
+  "radio_strong_label": {
+    "message": "Forte"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoico"
+  },
+  "button_generate_label": {
+    "message": "Genera"
+  },
+  "estimated_time_to_crack": {
+    "message": "Tempo stimato per il crack: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Preimpostazioni"
+  },
+  "legend_options": {
+    "message": "Opzioni"
+  },
+  "link_like": {
+    "message": "Mi piace"
+  },
+  "button_clear": {
+    "message": "Pulisci"
+  },
+  "switch_theme": {
+    "message": "Scuro"
+  },
+  "about_version_label": {
+    "message": "Versione"
+  },
+  "about_license_label": {
+    "message": "Licenza"
+  },
+  "about_author_label": {
+    "message": "Autore"
+  },
+  "about_homepage_label": {
+    "message": "Homepage"
+  },
+  "about_credits_label": {
+    "message": "Crediti"
+  },
+  "input_range_length_label": {
+    "message": "Lunghezza"
+  },
+  "switch_save_history_label": {
+    "message": "Salva cronologia"
+  }
+}

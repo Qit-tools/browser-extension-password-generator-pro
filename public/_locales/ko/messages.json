@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "비밀번호 생성기 ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "비밀번호 생성기 ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "PRO 기능을 갖춘 강력하고 사용하기 쉬운 확장 프로그램/추가 기능으로, 비밀번호를 무작위로 생성하고 보안을 확인할 수 있습니다."
+  },
+  "tab_main": {
+    "message": "주요"
+  },
+  "tab_history": {
+    "message": "기록"
+  },
+  "tab_about": {
+    "message": "정보"
+  },
+  "checkbox_uppercase_label": {
+    "message": "대문자"
+  },
+  "checkbox_lowercase_label": {
+    "message": "소문자"
+  },
+  "checkbox_numbers_label": {
+    "message": "숫자 [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "엄격한"
+  },
+  "checkbox_strict_description": {
+    "message": "모든 문자 유형을 강제 적용."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "유사한 문자 제외"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "유사한 문자 제외, 예: 'i'와 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "기호"
+  },
+  "radio_easy_to_say_label": {
+    "message": "말하기 쉬운"
+  },
+  "radio_easy_to_read_label": {
+    "message": "읽기 쉬운"
+  },
+  "radio_happy_label": {
+    "message": "행복한"
+  },
+  "radio_strong_label": {
+    "message": "강한"
+  },
+  "radio_paranoid_label": {
+    "message": "편집증"
+  },
+  "button_generate_label": {
+    "message": "생성"
+  },
+  "estimated_time_to_crack": {
+    "message": "크랙 예상 시간: {{time}}."
+  },
+  "legend_preset": {
+    "message": "프리셋"
+  },
+  "legend_options": {
+    "message": "옵션"
+  },
+  "link_like": {
+    "message": "좋아요"
+  },
+  "button_clear": {
+    "message": "지우기"
+  },
+  "switch_theme": {
+    "message": "어두운"
+  },
+  "about_version_label": {
+    "message": "버전"
+  },
+  "about_license_label": {
+    "message": "라이선스"
+  },
+  "about_author_label": {
+    "message": "저자"
+  },
+  "about_homepage_label": {
+    "message": "홈페이지"
+  },
+  "about_credits_label": {
+    "message": "크레딧"
+  },
+  "input_range_length_label": {
+    "message": "길이"
+  },
+  "switch_save_history_label": {
+    "message": "기록 저장"
+  }
+}

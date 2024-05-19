@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Генератор на Пароли ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Генератор на Пароли ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Мощно и лесно за използване разширение/добавка с PRO функции за случайно генериране и проверка на сигурността на паролите."
+  },
+  "tab_main": {
+    "message": "Главно"
+  },
+  "tab_history": {
+    "message": "История"
+  },
+  "tab_about": {
+    "message": "Относно"
+  },
+  "checkbox_uppercase_label": {
+    "message": "ГОЛЕМИ БУКВИ"
+  },
+  "checkbox_lowercase_label": {
+    "message": "малки букви"
+  },
+  "checkbox_numbers_label": {
+    "message": "Цифри [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Строго"
+  },
+  "checkbox_strict_description": {
+    "message": "Изисквай всички видове символи."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Изключване на подобни символи"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Изключване на подобни символи като 'i' и 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Символи"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Лесно за произнасяне"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Лесно за четене"
+  },
+  "radio_happy_label": {
+    "message": "Щастливо"
+  },
+  "radio_strong_label": {
+    "message": "Силно"
+  },
+  "radio_paranoid_label": {
+    "message": "Параноично"
+  },
+  "button_generate_label": {
+    "message": "Генериране"
+  },
+  "estimated_time_to_crack": {
+    "message": "Оценено време за разбиване: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Предварителни настройки"
+  },
+  "legend_options": {
+    "message": "Опции"
+  },
+  "link_like": {
+    "message": "Харесвам"
+  },
+  "button_clear": {
+    "message": "Изчистване"
+  },
+  "switch_theme": {
+    "message": "Тъмна тема"
+  },
+  "about_version_label": {
+    "message": "Версия"
+  },
+  "about_license_label": {
+    "message": "Лиценз"
+  },
+  "about_author_label": {
+    "message": "Автор"
+  },
+  "about_homepage_label": {
+    "message": "Начална страница"
+  },
+  "about_credits_label": {
+    "message": "Благодарности"
+  },
+  "input_range_length_label": {
+    "message": "Дължина"
+  },
+  "switch_save_history_label": {
+    "message": "Запазване на историята"
+  }
+}

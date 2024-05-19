@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Passordgenerator ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Passordgenerator ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Kraftig og brukervennlig utvidelse/tillegg med PRO-funksjoner for tilfeldig generering og sjekking av passordsikkerhet."
+  },
+  "tab_main": {
+    "message": "Hoved"
+  },
+  "tab_history": {
+    "message": "Historikk"
+  },
+  "tab_about": {
+    "message": "Om"
+  },
+  "checkbox_uppercase_label": {
+    "message": "STORE BOKSTAVER"
+  },
+  "checkbox_lowercase_label": {
+    "message": "små bokstaver"
+  },
+  "checkbox_numbers_label": {
+    "message": "Tall [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Streng"
+  },
+  "checkbox_strict_description": {
+    "message": "Håndheve alle tegn."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Utelukk like tegn"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Utelukk like tegn, som 'i' og 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Symboler"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Lett å si"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Lett å lese"
+  },
+  "radio_happy_label": {
+    "message": "Lykkelig"
+  },
+  "radio_strong_label": {
+    "message": "Sterk"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoid"
+  },
+  "button_generate_label": {
+    "message": "Generer"
+  },
+  "estimated_time_to_crack": {
+    "message": "Estimert tid å knekke: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Forhåndsinnstillinger"
+  },
+  "legend_options": {
+    "message": "Alternativer"
+  },
+  "link_like": {
+    "message": "Liker"
+  },
+  "button_clear": {
+    "message": "Fjern"
+  },
+  "switch_theme": {
+    "message": "Mørk"
+  },
+  "about_version_label": {
+    "message": "Versjon"
+  },
+  "about_license_label": {
+    "message": "Lisens"
+  },
+  "about_author_label": {
+    "message": "Forfatter"
+  },
+  "about_homepage_label": {
+    "message": "Hjemmeside"
+  },
+  "about_credits_label": {
+    "message": "Kreditt"
+  },
+  "input_range_length_label": {
+    "message": "Lengde"
+  },
+  "switch_save_history_label": {
+    "message": "Lagre historikk"
+  }
+}

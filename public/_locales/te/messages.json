@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "పాస్‌వర్డ్ జనరేటర్ ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "పాస్‌వర్డ్ జనరేటర్ ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "శక్తివంతమైన మరియు వినియోగదారుకు అనుకూలమైన పొడిగింపు/యాడ్-ఆన్, ర్యాండమ్ పాస్‌వర్డ్‌లను సృష్టించడానికి మరియు వాటి భద్రతను తనిఖీ చేయడానికి PRO ఫీచర్‌లతో."
+  },
+  "tab_main": {
+    "message": "ముఖ్యమైన"
+  },
+  "tab_history": {
+    "message": "చరిత్ర"
+  },
+  "tab_about": {
+    "message": "గురించి"
+  },
+  "checkbox_uppercase_label": {
+    "message": "పెద్ద అక్షరాలు"
+  },
+  "checkbox_lowercase_label": {
+    "message": "చిన్న అక్షరాలు"
+  },
+  "checkbox_numbers_label": {
+    "message": "సంఖ్యలు [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "కఠినమైన"
+  },
+  "checkbox_strict_description": {
+    "message": "అన్ని అక్షరాల రకాలను అమలు చేయండి."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "సమానమైన అక్షరాలను తొలగించండి"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "సమానమైన అక్షరాలను తొలగించండి, ఉదా: 'i' మరియు 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "సింబల్స్"
+  },
+  "radio_easy_to_say_label": {
+    "message": "చెప్పటానికి సులువు"
+  },
+  "radio_easy_to_read_label": {
+    "message": "చదవడానికి సులువు"
+  },
+  "radio_happy_label": {
+    "message": "సంతోషం"
+  },
+  "radio_strong_label": {
+    "message": "బలమైన"
+  },
+  "radio_paranoid_label": {
+    "message": "పరానాయిడ్"
+  },
+  "button_generate_label": {
+    "message": "ఉత్పత్తి"
+  },
+  "estimated_time_to_crack": {
+    "message": "గిరాకీ చేయడానికి అంచనా వేసిన సమయం: {{time}}."
+  },
+  "legend_preset": {
+    "message": "ప్రీసెట్స్"
+  },
+  "legend_options": {
+    "message": "ఆప్షన్లు"
+  },
+  "link_like": {
+    "message": "నచ్చింది"
+  },
+  "button_clear": {
+    "message": "తొలగించు"
+  },
+  "switch_theme": {
+    "message": "డార్క్"
+  },
+  "about_version_label": {
+    "message": "వెర్షన్"
+  },
+  "about_license_label": {
+    "message": "లైసెన్స్"
+  },
+  "about_author_label": {
+    "message": "రచయిత"
+  },
+  "about_homepage_label": {
+    "message": "హోమ్‌పేజ్"
+  },
+  "about_credits_label": {
+    "message": "క్రెడిట్స్"
+  },
+  "input_range_length_label": {
+    "message": "పొడవు"
+  },
+  "switch_save_history_label": {
+    "message": "చరిత్రను సేవ్ చేయండి"
+  }
+}

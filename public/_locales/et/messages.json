@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Parooligeneraator ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Parooligeneraator ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Võimas ja kasutajasõbralik laiendus/lisandmoodul, millel on PRO funktsioonid paroolide juhuslikuks genereerimiseks ja turvalisuse kontrollimiseks."
+  },
+  "tab_main": {
+    "message": "Peamine"
+  },
+  "tab_history": {
+    "message": "Ajalugu"
+  },
+  "tab_about": {
+    "message": "Teave"
+  },
+  "checkbox_uppercase_label": {
+    "message": "SUURTÄHED"
+  },
+  "checkbox_lowercase_label": {
+    "message": "väiketähed"
+  },
+  "checkbox_numbers_label": {
+    "message": "Numbrid [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Range"
+  },
+  "checkbox_strict_description": {
+    "message": "Kohusta kõiki märgitüüpe."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Eemalda sarnased märgid"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Eemalda sarnased märgid, nagu 'i' ja 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Sümbolid"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Kergesti öeldav"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Kergesti loetav"
+  },
+  "radio_happy_label": {
+    "message": "Õnnelik"
+  },
+  "radio_strong_label": {
+    "message": "Tugev"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoiline"
+  },
+  "button_generate_label": {
+    "message": "Genereeri"
+  },
+  "estimated_time_to_crack": {
+    "message": "Eeldatav murdmisaeg: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Eelseadistused"
+  },
+  "legend_options": {
+    "message": "Valikud"
+  },
+  "link_like": {
+    "message": "Meeldib"
+  },
+  "button_clear": {
+    "message": "Tühjenda"
+  },
+  "switch_theme": {
+    "message": "Tume"
+  },
+  "about_version_label": {
+    "message": "Versioon"
+  },
+  "about_license_label": {
+    "message": "Litsents"
+  },
+  "about_author_label": {
+    "message": "Autor"
+  },
+  "about_homepage_label": {
+    "message": "Koduleht"
+  },
+  "about_credits_label": {
+    "message": "Tänud"
+  },
+  "input_range_length_label": {
+    "message": "Pikkus"
+  },
+  "switch_save_history_label": {
+    "message": "Salvesta ajalugu"
+  }
+}

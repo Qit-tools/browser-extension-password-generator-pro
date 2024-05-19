@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Parola Oluşturucu ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Parola Oluşturucu ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Güçlü ve kullanıcı dostu bir uzantı/ek, PRO özelliklerle rastgele parola oluşturma ve parola güvenliğini kontrol etme."
+  },
+  "tab_main": {
+    "message": "Ana"
+  },
+  "tab_history": {
+    "message": "Geçmiş"
+  },
+  "tab_about": {
+    "message": "Hakkında"
+  },
+  "checkbox_uppercase_label": {
+    "message": "BÜYÜK HARFLER"
+  },
+  "checkbox_lowercase_label": {
+    "message": "küçük harfler"
+  },
+  "checkbox_numbers_label": {
+    "message": "Rakamlar [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Katı"
+  },
+  "checkbox_strict_description": {
+    "message": "Tüm karakter türlerini zorunlu kıl."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Benzer karakterleri dışla"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Benzer karakterleri dışla, örn. 'i' ve 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Semboller"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Söylemesi Kolay"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Okuması Kolay"
+  },
+  "radio_happy_label": {
+    "message": "Mutlu"
+  },
+  "radio_strong_label": {
+    "message": "Güçlü"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoyak"
+  },
+  "button_generate_label": {
+    "message": "Oluştur"
+  },
+  "estimated_time_to_crack": {
+    "message": "Kırılması tahmini süre: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Ön Ayarlar"
+  },
+  "legend_options": {
+    "message": "Seçenekler"
+  },
+  "link_like": {
+    "message": "Beğen"
+  },
+  "button_clear": {
+    "message": "Temizle"
+  },
+  "switch_theme": {
+    "message": "Koyu"
+  },
+  "about_version_label": {
+    "message": "Sürüm"
+  },
+  "about_license_label": {
+    "message": "Lisans"
+  },
+  "about_author_label": {
+    "message": "Yazar"
+  },
+  "about_homepage_label": {
+    "message": "Ana Sayfa"
+  },
+  "about_credits_label": {
+    "message": "Teşekkürler"
+  },
+  "input_range_length_label": {
+    "message": "Uzunluk"
+  },
+  "switch_save_history_label": {
+    "message": "Geçmişi Kaydet"
+  }
+}

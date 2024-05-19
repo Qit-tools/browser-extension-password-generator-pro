@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Générateur de Mots de Passe ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Générateur de Mots de Passe ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Extension/add-on puissant et convivial avec des fonctionnalités PRO pour générer aléatoirement et vérifier la sécurité des mots de passe."
+  },
+  "tab_main": {
+    "message": "Principal"
+  },
+  "tab_history": {
+    "message": "Historique"
+  },
+  "tab_about": {
+    "message": "À propos"
+  },
+  "checkbox_uppercase_label": {
+    "message": "MAJUSCULES"
+  },
+  "checkbox_lowercase_label": {
+    "message": "minuscules"
+  },
+  "checkbox_numbers_label": {
+    "message": "Nombres [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Strict"
+  },
+  "checkbox_strict_description": {
+    "message": "Imposer tous les types de caractères."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Exclusion des caractères similaires"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Exclure les caractères similaires, comme 'i' et 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Symboles"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Facile à dire"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Facile à lire"
+  },
+  "radio_happy_label": {
+    "message": "Heureux"
+  },
+  "radio_strong_label": {
+    "message": "Fort"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoïaque"
+  },
+  "button_generate_label": {
+    "message": "Générer"
+  },
+  "estimated_time_to_crack": {
+    "message": "Temps estimé pour casser : {{time}}."
+  },
+  "legend_preset": {
+    "message": "Préréglages"
+  },
+  "legend_options": {
+    "message": "Options"
+  },
+  "link_like": {
+    "message": "J'aime"
+  },
+  "button_clear": {
+    "message": "Effacer"
+  },
+  "switch_theme": {
+    "message": "Sombre"
+  },
+  "about_version_label": {
+    "message": "Version"
+  },
+  "about_license_label": {
+    "message": "Licence"
+  },
+  "about_author_label": {
+    "message": "Auteur"
+  },
+  "about_homepage_label": {
+    "message": "Page d'accueil"
+  },
+  "about_credits_label": {
+    "message": "Crédits"
+  },
+  "input_range_length_label": {
+    "message": "Longueur"
+  },
+  "switch_save_history_label": {
+    "message": "Enregistrer l'historique"
+  }
+}

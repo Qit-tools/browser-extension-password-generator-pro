@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Pembuat Kata Sandi ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Pembuat Kata Sandi ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Ekstensi/add-on yang kuat dan mudah digunakan dengan fitur PRO untuk membuat kata sandi secara acak dan memeriksa keamanannya."
+  },
+  "tab_main": {
+    "message": "Utama"
+  },
+  "tab_history": {
+    "message": "Riwayat"
+  },
+  "tab_about": {
+    "message": "Tentang"
+  },
+  "checkbox_uppercase_label": {
+    "message": "HURUF BESAR"
+  },
+  "checkbox_lowercase_label": {
+    "message": "huruf kecil"
+  },
+  "checkbox_numbers_label": {
+    "message": "Angka [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Ketat"
+  },
+  "checkbox_strict_description": {
+    "message": "Terapkan semua jenis karakter."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Kecualikan karakter serupa"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Kecualikan karakter serupa, seperti 'i' dan 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Simbol"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Mudah diucapkan"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Mudah dibaca"
+  },
+  "radio_happy_label": {
+    "message": "Senang"
+  },
+  "radio_strong_label": {
+    "message": "Kuat"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoid"
+  },
+  "button_generate_label": {
+    "message": "Buat"
+  },
+  "estimated_time_to_crack": {
+    "message": "Perkiraan waktu untuk meretas: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Preset"
+  },
+  "legend_options": {
+    "message": "Opsi"
+  },
+  "link_like": {
+    "message": "Suka"
+  },
+  "button_clear": {
+    "message": "Bersihkan"
+  },
+  "switch_theme": {
+    "message": "Gelap"
+  },
+  "about_version_label": {
+    "message": "Versi"
+  },
+  "about_license_label": {
+    "message": "Lisensi"
+  },
+  "about_author_label": {
+    "message": "Penulis"
+  },
+  "about_homepage_label": {
+    "message": "Halaman Utama"
+  },
+  "about_credits_label": {
+    "message": "Kredit"
+  },
+  "input_range_length_label": {
+    "message": "Panjang"
+  },
+  "switch_save_history_label": {
+    "message": "Simpan riwayat"
+  }
+}

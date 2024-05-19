@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Passwort-Generator ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Passwort-Generator ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Leistungsstarke und benutzerfreundliche Erweiterung/Addon mit PRO-Funktionen zum zufälligen Generieren und Überprüfen der Passwortsicherheit."
+  },
+  "tab_main": {
+    "message": "Hauptseite"
+  },
+  "tab_history": {
+    "message": "Verlauf"
+  },
+  "tab_about": {
+    "message": "Über"
+  },
+  "checkbox_uppercase_label": {
+    "message": "GROSSBUCHSTABEN"
+  },
+  "checkbox_lowercase_label": {
+    "message": "kleinbuchstaben"
+  },
+  "checkbox_numbers_label": {
+    "message": "Zahlen [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Streng"
+  },
+  "checkbox_strict_description": {
+    "message": "Erzwinge alle Zeichentypen."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Verwirrung vermeiden"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Ähnliche Zeichen ausschließen, wie 'i' und 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Symbole"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Leicht zu sagen"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Leicht zu lesen"
+  },
+  "radio_happy_label": {
+    "message": "Glücklich"
+  },
+  "radio_strong_label": {
+    "message": "Stark"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoid"
+  },
+  "button_generate_label": {
+    "message": "Generieren"
+  },
+  "estimated_time_to_crack": {
+    "message": "Geschätzte Zeit zum Knacken: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Voreinstellungen"
+  },
+  "legend_options": {
+    "message": "Optionen"
+  },
+  "link_like": {
+    "message": "Gefällt mir"
+  },
+  "button_clear": {
+    "message": "Löschen"
+  },
+  "switch_theme": {
+    "message": "Dunkel"
+  },
+  "about_version_label": {
+    "message": "Version"
+  },
+  "about_license_label": {
+    "message": "Lizenz"
+  },
+  "about_author_label": {
+    "message": "Autor"
+  },
+  "about_homepage_label": {
+    "message": "Startseite"
+  },
+  "about_credits_label": {
+    "message": "Danksagungen"
+  },
+  "input_range_length_label": {
+    "message": "Länge"
+  },
+  "switch_save_history_label": {
+    "message": "Verlauf speichern"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Generator Gesel ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Generator Gesel ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Zmogljiva in uporabniku prijazna razširitev/dodatek s funkcijami PRO za naključno generiranje gesel in preverjanje varnosti gesel."
+  },
+  "tab_main": {
+    "message": "Glavna"
+  },
+  "tab_history": {
+    "message": "Zgodovina"
+  },
+  "tab_about": {
+    "message": "O"
+  },
+  "checkbox_uppercase_label": {
+    "message": "VELIKE ČRKE"
+  },
+  "checkbox_lowercase_label": {
+    "message": "male črke"
+  },
+  "checkbox_numbers_label": {
+    "message": "Številke [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Strogo"
+  },
+  "checkbox_strict_description": {
+    "message": "Uveljavi vse vrste znakov."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Izključi podobne znake"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Izključi podobne znake, kot sta 'i' in 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Simboli"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Enostavno povedati"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Enostavno brati"
+  },
+  "radio_happy_label": {
+    "message": "Vesel"
+  },
+  "radio_strong_label": {
+    "message": "Močan"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoičen"
+  },
+  "button_generate_label": {
+    "message": "Generiraj"
+  },
+  "estimated_time_to_crack": {
+    "message": "Ocenjen čas za razbijanje: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Prednastavitve"
+  },
+  "legend_options": {
+    "message": "Možnosti"
+  },
+  "link_like": {
+    "message": "Všeč mi je"
+  },
+  "button_clear": {
+    "message": "Počisti"
+  },
+  "switch_theme": {
+    "message": "Temno"
+  },
+  "about_version_label": {
+    "message": "Različica"
+  },
+  "about_license_label": {
+    "message": "Licenca"
+  },
+  "about_author_label": {
+    "message": "Avtor"
+  },
+  "about_homepage_label": {
+    "message": "Domača stran"
+  },
+  "about_credits_label": {
+    "message": "Zahvale"
+  },
+  "input_range_length_label": {
+    "message": "Dolžina"
+  },
+  "switch_save_history_label": {
+    "message": "Shrani zgodovino"
+  }
+}

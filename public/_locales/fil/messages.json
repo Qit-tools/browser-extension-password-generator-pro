@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Tagagawa ng Password ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Tagagawa ng Password ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Makapangyarihan at madaling gamitin na extension/add-on na may PRO features para sa random na paggawa at pag-check ng seguridad ng password."
+  },
+  "tab_main": {
+    "message": "Pangunahing"
+  },
+  "tab_history": {
+    "message": "Kasaysayan"
+  },
+  "tab_about": {
+    "message": "Tungkol sa"
+  },
+  "checkbox_uppercase_label": {
+    "message": "MALALAKING TITIK"
+  },
+  "checkbox_lowercase_label": {
+    "message": "mga maliit na titik"
+  },
+  "checkbox_numbers_label": {
+    "message": "Mga Numero [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Mahigpit"
+  },
+  "checkbox_strict_description": {
+    "message": "Ipataw ang lahat ng uri ng karakter."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Tanggalin ang magkaparehong karakter"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Tanggalin ang magkaparehong karakter, tulad ng 'i' at 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Mga Simbolo"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Madaling sabihin"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Madaling basahin"
+  },
+  "radio_happy_label": {
+    "message": "Masaya"
+  },
+  "radio_strong_label": {
+    "message": "Malakas"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoid"
+  },
+  "button_generate_label": {
+    "message": "Gumawa"
+  },
+  "estimated_time_to_crack": {
+    "message": "Tinatayang oras ng pag-crack: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Mga Preset"
+  },
+  "legend_options": {
+    "message": "Mga Opsyon"
+  },
+  "link_like": {
+    "message": "Gusto"
+  },
+  "button_clear": {
+    "message": "I-clear"
+  },
+  "switch_theme": {
+    "message": "Madilim"
+  },
+  "about_version_label": {
+    "message": "Bersyon"
+  },
+  "about_license_label": {
+    "message": "Lisensya"
+  },
+  "about_author_label": {
+    "message": "May-akda"
+  },
+  "about_homepage_label": {
+    "message": "Homepage"
+  },
+  "about_credits_label": {
+    "message": "Mga Kredito"
+  },
+  "input_range_length_label": {
+    "message": "Haba"
+  },
+  "switch_save_history_label": {
+    "message": "I-save ang kasaysayan"
+  }
+}

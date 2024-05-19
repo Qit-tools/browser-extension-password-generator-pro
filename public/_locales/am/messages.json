@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "የይለፍ ቃላት ፈጣሪ ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "የይለፍ ቃላት ፈጣሪ ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "ኃይለኛና ተጠቃሚ ቀላል ማስተካከሊያ/ተጨማሪ እቃ በPRO ባህሪያት የወረዳ ይለፍ ቃላት ለመፈጠርና ደህንነታቸውን ለመረጋገጥ።"
+  },
+  "tab_main": {
+    "message": "መነሻ"
+  },
+  "tab_history": {
+    "message": "ታሪክ"
+  },
+  "tab_about": {
+    "message": "ስለ"
+  },
+  "checkbox_uppercase_label": {
+    "message": "እስከ ላይ ፊደላት"
+  },
+  "checkbox_lowercase_label": {
+    "message": "ታችኛው ፊደላት"
+  },
+  "checkbox_numbers_label": {
+    "message": "ቁጥሮች [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "ከባድ"
+  },
+  "checkbox_strict_description": {
+    "message": "ሁሉንም ዓይነት ቁምፊዎች አስፈላጊ አድርገው።"
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "አስር"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "እንደ 'i' እና 'l' የሚመሳሰሉ ቁምፊዎችን አስወግድ።"
+  },
+  "checkbox_symbols_label": {
+    "message": "ምልክቶች"
+  },
+  "radio_easy_to_say_label": {
+    "message": "ለመናገር ቀላል"
+  },
+  "radio_easy_to_read_label": {
+    "message": "ለማንበብ ቀላል"
+  },
+  "radio_happy_label": {
+    "message": "ደስተኛ"
+  },
+  "radio_strong_label": {
+    "message": "ጠንካራ"
+  },
+  "radio_paranoid_label": {
+    "message": "ፈሪኝነት"
+  },
+  "button_generate_label": {
+    "message": "አስከትል"
+  },
+  "estimated_time_to_crack": {
+    "message": "ለመስበር ተገመተው የሚወስደው ጊዜ: {{time}}."
+  },
+  "legend_preset": {
+    "message": "ቅድሚያ ቅንብሮች"
+  },
+  "legend_options": {
+    "message": "አማራጮች"
+  },
+  "link_like": {
+    "message": "እወዳለሁ"
+  },
+  "button_clear": {
+    "message": "አጽዳ"
+  },
+  "switch_theme": {
+    "message": "ጨለማ"
+  },
+  "about_version_label": {
+    "message": "እትም"
+  },
+  "about_license_label": {
+    "message": "ፈቃድ"
+  },
+  "about_author_label": {
+    "message": "ደራሲ"
+  },
+  "about_homepage_label": {
+    "message": "መነሻ ገፅ"
+  },
+  "about_credits_label": {
+    "message": "ምስጋናዎች"
+  },
+  "input_range_length_label": {
+    "message": "ርዝመት"
+  },
+  "switch_save_history_label": {
+    "message": "ታሪክ አስቀምጥ"
+  }
+}

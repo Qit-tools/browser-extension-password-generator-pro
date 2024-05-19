@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Mzalishaji Nywila ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Mzalishaji Nywila ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Kiendelezi/nyongeza yenye nguvu na rahisi kutumia yenye vipengele vya PRO kwa ajili ya kuzalisha nywila nasibu na kuangalia usalama wake."
+  },
+  "tab_main": {
+    "message": "Mkuu"
+  },
+  "tab_history": {
+    "message": "Historia"
+  },
+  "tab_about": {
+    "message": "Kuhusu"
+  },
+  "checkbox_uppercase_label": {
+    "message": "HERUFI KUBWA"
+  },
+  "checkbox_lowercase_label": {
+    "message": "herufi ndogo"
+  },
+  "checkbox_numbers_label": {
+    "message": "Nambari [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Kali"
+  },
+  "checkbox_strict_description": {
+    "message": "Lazimisha aina zote za herufi."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Ondoa herufi zinazofanana"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Ondoa herufi zinazofanana, kama vile 'i' na 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Alama"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Rahisi kusema"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Rahisi kusoma"
+  },
+  "radio_happy_label": {
+    "message": "Furaha"
+  },
+  "radio_strong_label": {
+    "message": "Nguvu"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoid"
+  },
+  "button_generate_label": {
+    "message": "Zalisha"
+  },
+  "estimated_time_to_crack": {
+    "message": "Muda unaokadiriwa kuvunja: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Mipangilio ya awali"
+  },
+  "legend_options": {
+    "message": "Chaguo"
+  },
+  "link_like": {
+    "message": "Penda"
+  },
+  "button_clear": {
+    "message": "Futa"
+  },
+  "switch_theme": {
+    "message": "Giza"
+  },
+  "about_version_label": {
+    "message": "Toleo"
+  },
+  "about_license_label": {
+    "message": "Leseni"
+  },
+  "about_author_label": {
+    "message": "Mwandishi"
+  },
+  "about_homepage_label": {
+    "message": "Ukurasa wa mwanzo"
+  },
+  "about_credits_label": {
+    "message": "Shukrani"
+  },
+  "input_range_length_label": {
+    "message": "Urefu"
+  },
+  "switch_save_history_label": {
+    "message": "Hifadhi historia"
+  }
+}

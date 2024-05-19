@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "密碼生成器 ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "密碼生成器 ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "強大且用戶友好的擴展/插件，具有 PRO 功能，用於隨機生成和檢查密碼安全性。"
+  },
+  "tab_main": {
+    "message": "主要"
+  },
+  "tab_history": {
+    "message": "歷史記錄"
+  },
+  "tab_about": {
+    "message": "關於"
+  },
+  "checkbox_uppercase_label": {
+    "message": "大寫字母"
+  },
+  "checkbox_lowercase_label": {
+    "message": "小寫字母"
+  },
+  "checkbox_numbers_label": {
+    "message": "數字 [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "嚴格"
+  },
+  "checkbox_strict_description": {
+    "message": "強制使用所有字符類型。"
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "排除相似字符"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "排除相似字符，如 'i' 和 'l'。"
+  },
+  "checkbox_symbols_label": {
+    "message": "符號"
+  },
+  "radio_easy_to_say_label": {
+    "message": "易於說出"
+  },
+  "radio_easy_to_read_label": {
+    "message": "易於閱讀"
+  },
+  "radio_happy_label": {
+    "message": "快樂"
+  },
+  "radio_strong_label": {
+    "message": "強大"
+  },
+  "radio_paranoid_label": {
+    "message": "偏執"
+  },
+  "button_generate_label": {
+    "message": "生成"
+  },
+  "estimated_time_to_crack": {
+    "message": "預計破解時間：{{time}}。"
+  },
+  "legend_preset": {
+    "message": "預設"
+  },
+  "legend_options": {
+    "message": "選項"
+  },
+  "link_like": {
+    "message": "喜歡"
+  },
+  "button_clear": {
+    "message": "清除"
+  },
+  "switch_theme": {
+    "message": "黑暗"
+  },
+  "about_version_label": {
+    "message": "版本"
+  },
+  "about_license_label": {
+    "message": "許可證"
+  },
+  "about_author_label": {
+    "message": "作者"
+  },
+  "about_homepage_label": {
+    "message": "主頁"
+  },
+  "about_credits_label": {
+    "message": "鳴謝"
+  },
+  "input_range_length_label": {
+    "message": "長度"
+  },
+  "switch_save_history_label": {
+    "message": "保存歷史記錄"
+  }
+}

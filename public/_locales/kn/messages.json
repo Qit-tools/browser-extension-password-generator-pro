@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "ಪಾಸ್ವರ್ಡ್ ಜನರೇಟರ್ ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "ಪಾಸ್ವರ್ಡ್ ಜನರೇಟರ್ ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "ಪ್ರಬಲ ಮತ್ತು ಬಳಕೆದಾರ ಸ್ನೇಹಿ ವಿಸ್ತರಣೆ/ಸೇರಿಸುವಿಕೆ, ಪ್ರೋ ವೈಶಿಷ್ಟ್ಯಗಳೊಂದಿಗೆ ಪಾಸ್ವರ್ಡ್‌ಗಳನ್ನು ಯಾದೃಚ್ಛಿಕವಾಗಿ ಜನರೇಟ್ ಮಾಡಲು ಮತ್ತು ಅವುಗಳ ಸುರಕ್ಷತೆಯನ್ನು ಪರಿಶೀಲಿಸಲು."
+  },
+  "tab_main": {
+    "message": "ಮುಖ್ಯ"
+  },
+  "tab_history": {
+    "message": "ಐತಿಹಾಸಿಕ"
+  },
+  "tab_about": {
+    "message": "ಬಗ್ಗೆ"
+  },
+  "checkbox_uppercase_label": {
+    "message": "ದೊಡ್ಡ ಅಕ್ಷರಗಳು"
+  },
+  "checkbox_lowercase_label": {
+    "message": "ಸಣ್ಣ ಅಕ್ಷರಗಳು"
+  },
+  "checkbox_numbers_label": {
+    "message": "ಸಂಖ್ಯೆಗಳು [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "ಕಠಿಣ"
+  },
+  "checkbox_strict_description": {
+    "message": "ಎಲ್ಲಾ ಅಕ್ಷರ ಪ್ರಕಾರಗಳನ್ನು ಅನ್ವಯಿಸಿ."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "ಹೋಲುವ ಅಕ್ಷರಗಳನ್ನು ಹೊರತುಪಡಿಸಿ"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "ಹೋಲುವ ಅಕ್ಷರಗಳನ್ನು ಹೊರತುಪಡಿಸಿ, ಉದಾ. 'i' ಮತ್ತು 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "ಸಂकेतಗಳು"
+  },
+  "radio_easy_to_say_label": {
+    "message": "ಹೇಳಲು ಸುಲಭ"
+  },
+  "radio_easy_to_read_label": {
+    "message": "ಓದಲು ಸುಲಭ"
+  },
+  "radio_happy_label": {
+    "message": "ಸಂತೋಷ"
+  },
+  "radio_strong_label": {
+    "message": "ಬಲವಾದ"
+  },
+  "radio_paranoid_label": {
+    "message": "ವೈಷಮ್ಯ"
+  },
+  "button_generate_label": {
+    "message": "ಜನರೇಟ್ ಮಾಡಿ"
+  },
+  "estimated_time_to_crack": {
+    "message": "ಕ್ರ್ಯಾಕ್ ಮಾಡಲು ಅಂದಾಜು ಸಮಯ: {{time}}."
+  },
+  "legend_preset": {
+    "message": "ಪೂರ್ವನಿಯೋಜನೆಗಳು"
+  },
+  "legend_options": {
+    "message": "ಆಯ್ಕೆಗಳು"
+  },
+  "link_like": {
+    "message": "ಇಷ್ಟ"
+  },
+  "button_clear": {
+    "message": "ಸ್ವಚ್ಛಗೊಳಿಸು"
+  },
+  "switch_theme": {
+    "message": "ಡಾರ್ಕ್"
+  },
+  "about_version_label": {
+    "message": "ಆವೃತ್ತಿ"
+  },
+  "about_license_label": {
+    "message": "ಪರವಾನಗಿ"
+  },
+  "about_author_label": {
+    "message": "ಲೇಖಕ"
+  },
+  "about_homepage_label": {
+    "message": "ಮುಖ್ಯ ಪುಟ"
+  },
+  "about_credits_label": {
+    "message": "ಋಣ"
+  },
+  "input_range_length_label": {
+    "message": "ಉದ್ದ"
+  },
+  "switch_save_history_label": {
+    "message": "ಐತಿಹಾಸಿಕವನ್ನು ಉಳಿಸಿ"
+  }
+}

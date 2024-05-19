@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Γεννήτρια Κωδικών ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Γεννήτρια Κωδικών ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Ισχυρό και φιλικό προς το χρήστη πρόσθετο/επέκταση με λειτουργίες PRO για τυχαία δημιουργία και έλεγχο της ασφάλειας των κωδικών."
+  },
+  "tab_main": {
+    "message": "Κύριο"
+  },
+  "tab_history": {
+    "message": "Ιστορικό"
+  },
+  "tab_about": {
+    "message": "Σχετικά"
+  },
+  "checkbox_uppercase_label": {
+    "message": "ΚΕΦΑΛΑΙΑ"
+  },
+  "checkbox_lowercase_label": {
+    "message": "πεζά"
+  },
+  "checkbox_numbers_label": {
+    "message": "Αριθμοί [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Αυστηρό"
+  },
+  "checkbox_strict_description": {
+    "message": "Επιβολή όλων των τύπων χαρακτήρων."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Αποκλεισμός παρόμοιων χαρακτήρων"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Αποκλεισμός παρόμοιων χαρακτήρων, όπως 'i' και 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Σύμβολα"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Εύκολο να ειπωθεί"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Εύκολο να διαβαστεί"
+  },
+  "radio_happy_label": {
+    "message": "Χαρούμενο"
+  },
+  "radio_strong_label": {
+    "message": "Ισχυρό"
+  },
+  "radio_paranoid_label": {
+    "message": "Παρανοϊκό"
+  },
+  "button_generate_label": {
+    "message": "Δημιουργία"
+  },
+  "estimated_time_to_crack": {
+    "message": "Εκτιμώμενος χρόνος για διάρρηξη: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Προεπιλογές"
+  },
+  "legend_options": {
+    "message": "Επιλογές"
+  },
+  "link_like": {
+    "message": "Μου αρέσει"
+  },
+  "button_clear": {
+    "message": "Καθαρισμός"
+  },
+  "switch_theme": {
+    "message": "Σκούρο"
+  },
+  "about_version_label": {
+    "message": "Έκδοση"
+  },
+  "about_license_label": {
+    "message": "Άδεια"
+  },
+  "about_author_label": {
+    "message": "Συγγραφέας"
+  },
+  "about_homepage_label": {
+    "message": "Αρχική σελίδα"
+  },
+  "about_credits_label": {
+    "message": "Ευχαριστίες"
+  },
+  "input_range_length_label": {
+    "message": "Μήκος"
+  },
+  "switch_save_history_label": {
+    "message": "Αποθήκευση ιστορικού"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Генератор Паролей ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Генератор Паролей ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Мощное и удобное расширение/дополнение с профессиональными функциями для случайного создания и проверки безопасности паролей."
+  },
+  "tab_main": {
+    "message": "Главная"
+  },
+  "tab_history": {
+    "message": "История"
+  },
+  "tab_about": {
+    "message": "О программе"
+  },
+  "checkbox_uppercase_label": {
+    "message": "БОЛЬШИЕ БУКВЫ"
+  },
+  "checkbox_lowercase_label": {
+    "message": "маленькие буквы"
+  },
+  "checkbox_numbers_label": {
+    "message": "Цифры [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Строго"
+  },
+  "checkbox_strict_description": {
+    "message": "Использовать все типы символов."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Исключить похожие символы"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Исключить похожие символы, такие как 'i' и 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Символы"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Легко сказать"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Легко прочитать"
+  },
+  "radio_happy_label": {
+    "message": "Счастливый"
+  },
+  "radio_strong_label": {
+    "message": "Сильный"
+  },
+  "radio_paranoid_label": {
+    "message": "Параноик"
+  },
+  "button_generate_label": {
+    "message": "Генерировать"
+  },
+  "estimated_time_to_crack": {
+    "message": "Оценочное время взлома: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Шаблоны"
+  },
+  "legend_options": {
+    "message": "Опции"
+  },
+  "link_like": {
+    "message": "Нравится"
+  },
+  "button_clear": {
+    "message": "Очистить"
+  },
+  "switch_theme": {
+    "message": "Темная"
+  },
+  "about_version_label": {
+    "message": "Версия"
+  },
+  "about_license_label": {
+    "message": "Лицензия"
+  },
+  "about_author_label": {
+    "message": "Автор"
+  },
+  "about_homepage_label": {
+    "message": "Домашняя страница"
+  },
+  "about_credits_label": {
+    "message": "Благодарности"
+  },
+  "input_range_length_label": {
+    "message": "Длина"
+  },
+  "switch_save_history_label": {
+    "message": "Сохранить историю"
+  }
+}

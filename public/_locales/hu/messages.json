@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Jelszó Generátor ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Jelszó Generátor ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Erőteljes és felhasználóbarát kiterjesztés/bővítmény PRO funkciókkal véletlenszerű jelszavak generálására és azok biztonságának ellenőrzésére."
+  },
+  "tab_main": {
+    "message": "Fő"
+  },
+  "tab_history": {
+    "message": "Előzmények"
+  },
+  "tab_about": {
+    "message": "Névjegy"
+  },
+  "checkbox_uppercase_label": {
+    "message": "NAGYBETŰK"
+  },
+  "checkbox_lowercase_label": {
+    "message": "kisbetűk"
+  },
+  "checkbox_numbers_label": {
+    "message": "Számok [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Szigorú"
+  },
+  "checkbox_strict_description": {
+    "message": "Az összes karaktertípust kényszerítse ki."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Hasonló karakterek kizárása"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Hasonló karakterek kizárása, mint például 'i' és 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Szimbólumok"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Könnyű kimondani"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Könnyű olvasni"
+  },
+  "radio_happy_label": {
+    "message": "Boldog"
+  },
+  "radio_strong_label": {
+    "message": "Erős"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoiás"
+  },
+  "button_generate_label": {
+    "message": "Generálás"
+  },
+  "estimated_time_to_crack": {
+    "message": "Becsült feltörési idő: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Előbeállítások"
+  },
+  "legend_options": {
+    "message": "Beállítások"
+  },
+  "link_like": {
+    "message": "Tetszik"
+  },
+  "button_clear": {
+    "message": "Törlés"
+  },
+  "switch_theme": {
+    "message": "Sötét"
+  },
+  "about_version_label": {
+    "message": "Verzió"
+  },
+  "about_license_label": {
+    "message": "Licenc"
+  },
+  "about_author_label": {
+    "message": "Szerző"
+  },
+  "about_homepage_label": {
+    "message": "Kezdőlap"
+  },
+  "about_credits_label": {
+    "message": "Köszönetnyilvánítás"
+  },
+  "input_range_length_label": {
+    "message": "Hossz"
+  },
+  "switch_save_history_label": {
+    "message": "Előzmények mentése"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Generátor Hesel ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Generátor Hesel ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Výkonné a uživatelsky přívětivé rozšíření/doplněk s PRO funkcemi pro náhodné generování a kontrolu bezpečnosti hesel."
+  },
+  "tab_main": {
+    "message": "Hlavní"
+  },
+  "tab_history": {
+    "message": "Historie"
+  },
+  "tab_about": {
+    "message": "O aplikaci"
+  },
+  "checkbox_uppercase_label": {
+    "message": "VELKÁ PÍSMENA"
+  },
+  "checkbox_lowercase_label": {
+    "message": "malá písmena"
+  },
+  "checkbox_numbers_label": {
+    "message": "Čísla [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Přísný"
+  },
+  "checkbox_strict_description": {
+    "message": "Vyžadovat všechny typy znaků."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Vyloučení podobných znaků"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Vyloučit podobné znaky, jako 'i' a 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Symboly"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Snadno vyslovitelné"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Snadno čitelné"
+  },
+  "radio_happy_label": {
+    "message": "Šťastný"
+  },
+  "radio_strong_label": {
+    "message": "Silný"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoidní"
+  },
+  "button_generate_label": {
+    "message": "Generovat"
+  },
+  "estimated_time_to_crack": {
+    "message": "Odhadovaný čas na prolomení: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Přednastavení"
+  },
+  "legend_options": {
+    "message": "Možnosti"
+  },
+  "link_like": {
+    "message": "Líbí se mi to"
+  },
+  "button_clear": {
+    "message": "Vymazat"
+  },
+  "switch_theme": {
+    "message": "Tmavý"
+  },
+  "about_version_label": {
+    "message": "Verze"
+  },
+  "about_license_label": {
+    "message": "Licence"
+  },
+  "about_author_label": {
+    "message": "Autor"
+  },
+  "about_homepage_label": {
+    "message": "Domovská stránka"
+  },
+  "about_credits_label": {
+    "message": "Poděkování"
+  },
+  "input_range_length_label": {
+    "message": "Délka"
+  },
+  "switch_save_history_label": {
+    "message": "Uložit historii"
+  }
+}

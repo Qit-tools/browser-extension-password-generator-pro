@@ -1,0 +1,101 @@
+{
+  "extName": {
+    "message": "Password Generator ⚡ PRO"
+  },
+  "extShortName": {
+    "message": "Password Generator ⚡ PRO"
+  },
+  "extDescription": {
+    "message": "Powerful and user-friendly extension/add-on with PRO features for randomly generating and checking passwords security."
+  },
+  "tab_main": {
+    "message": "Main"
+  },
+  "tab_history": {
+    "message": "History"
+  },
+  "tab_about": {
+    "message": "About"
+  },
+  "checkbox_uppercase_label": {
+    "message": "UPPER CASE"
+  },
+  "checkbox_lowercase_label": {
+    "message": "lower case"
+  },
+  "checkbox_numbers_label": {
+    "message": "Numbers [0-9]"
+  },
+  "checkbox_strict_label": {
+    "message": "Strict"
+  },
+  "checkbox_strict_description": {
+    "message": "Enforce all character types."
+  },
+  "checkbox_excludeSimilarCharacters_label": {
+    "message": "Disambiguation"
+  },
+  "checkbox_excludeSimilarCharacters_description": {
+    "message": "Exclude similar chars, like 'i' and 'l'."
+  },
+  "checkbox_symbols_label": {
+    "message": "Symbols"
+  },
+  "radio_easy_to_say_label": {
+    "message": "Easy to say"
+  },
+  "radio_easy_to_read_label": {
+    "message": "Easy to read"
+  },
+  "radio_happy_label": {
+    "message": "Happy"
+  },
+  "radio_strong_label": {
+    "message": "Strong"
+  },
+  "radio_paranoid_label": {
+    "message": "Paranoid"
+  },
+  "button_generate_label": {
+    "message": "Generate"
+  },
+  "estimated_time_to_crack": {
+    "message": "Estimated time to crack: {{time}}."
+  },
+  "legend_preset": {
+    "message": "Presets"
+  },
+  "legend_options": {
+    "message": "Options"
+  },
+  "link_like": {
+    "message": "Like"
+  },
+  "button_clear": {
+    "message": "Clear"
+  },
+  "switch_theme": {
+    "message": "Dark"
+  },
+  "about_version_label": {
+    "message": "Version"
+  },
+  "about_license_label": {
+    "message": "License"
+  },
+  "about_author_label": {
+    "message": "Author"
+  },
+  "about_homepage_label": {
+    "message": "Homepage"
+  },
+  "about_credits_label": {
+    "message": "Credits"
+  },
+  "input_range_length_label": {
+    "message": "Length"
+  },
+  "switch_save_history_label": {
+    "message": "Save history"
+  }
+}
