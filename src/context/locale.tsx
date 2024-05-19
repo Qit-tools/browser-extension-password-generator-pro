@@ -2,6 +2,7 @@ import { FunctionComponent, createContext } from "preact";
 import { useContext, useEffect, useState } from "preact/hooks";
 
 import type { ComponentChildren } from "preact";
+import browser from "webextension-polyfill";
 
 // Define the shape of the context
 interface LocaleContextType {
@@ -19,10 +20,10 @@ interface LocaleProviderProps {
 export const LocaleProvider: FunctionComponent<LocaleProviderProps> = ({
   children,
 }) => {
-  const [locale, setLocale] = useState<string>(chrome.i18n.getUILanguage());
+  const [locale, setLocale] = useState<string>(browser.i18n.getUILanguage());
 
   useEffect(() => {
-    const currentLocale = chrome.i18n.getUILanguage();
+    const currentLocale = browser.i18n.getUILanguage();
     setLocale(currentLocale);
   }, []);
 

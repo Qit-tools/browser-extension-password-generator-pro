@@ -1,6 +1,7 @@
 import { ArrowTopRightOnSquareIcon } from "@heroicons/react/24/outline";
 import EmojiScoreMap from "~/components/scores/scores";
 import { TabPanel } from "@headlessui/react";
+import browser from "webextension-polyfill";
 
 export default function TabAbout() {
   const credits = [
@@ -26,19 +27,19 @@ export default function TabAbout() {
       <div class="p-4 sm:px-0">
         <h3 class="flex items-center truncate text-base font-semibold leading-7 text-slate-900 dark:text-slate-200">
           <EmojiScoreMap emoji="🔒" class="me-1 h-4 w-4 rtl:ms-1" />{" "}
-          {chrome.i18n.getMessage("extName")}
+          {browser.i18n.getMessage("extName")}
         </h3>
         <p class="mt-1 text-sm leading-6 text-slate-600 dark:text-slate-400">
-          {chrome.i18n.getMessage("about_version_label")}: {__VERSION__}
+          {browser.i18n.getMessage("about_version_label")}: {__VERSION__}
           <br />
-          {chrome.i18n.getMessage("about_license_label")}: {__LICENSE__}
+          {browser.i18n.getMessage("about_license_label")}: {__LICENSE__}
         </p>
       </div>
       <div class="mt-0 border-t border-gray-300 dark:border-gray-700">
         <dl class="divide-y divide-gray-300 dark:divide-gray-700">
           <div class="px-4 py-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
             <dt class="text-sm font-medium leading-6 text-slate-900 dark:text-slate-200">
-              🪪 {chrome.i18n.getMessage("about_author_label")}
+              🪪 {browser.i18n.getMessage("about_author_label")}
             </dt>
             <dd class="mt-1 text-sm leading-6 text-slate-600 dark:text-slate-400 sm:col-span-2 sm:mt-0">
               <a
@@ -74,7 +75,7 @@ export default function TabAbout() {
           </div>
           <div class="px-4 py-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
             <dt class="text-sm font-medium leading-6 text-slate-900 dark:text-slate-200">
-              ©️ {chrome.i18n.getMessage("about_credits_label")}
+              ©️ {browser.i18n.getMessage("about_credits_label")}
             </dt>
             <dd class="mt-1 text-sm leading-6 text-slate-600 dark:text-slate-400 sm:col-span-2 sm:mt-0">
               {credits.map((item) => (

@@ -1,3 +1,5 @@
+import browser from "webextension-polyfill";
+
 export const emojiScore = ["🚫", "😔", "😬", "👌", "🔒"];
 
 export const ringClassScore = [
@@ -54,31 +56,31 @@ export function getBrowserExtUrl(): string {
 
 export const checkboxes = [
   {
-    label: chrome.i18n.getMessage("checkbox_uppercase_label"),
+    label: browser.i18n.getMessage("checkbox_uppercase_label"),
     name: "uppercase",
   },
   {
-    label: chrome.i18n.getMessage("checkbox_lowercase_label"),
+    label: browser.i18n.getMessage("checkbox_lowercase_label"),
     name: "lowercase",
   },
   {
-    label: chrome.i18n.getMessage("checkbox_numbers_label"),
+    label: browser.i18n.getMessage("checkbox_numbers_label"),
     name: "numbers",
   },
   {
-    label: chrome.i18n.getMessage("checkbox_strict_label"),
+    label: browser.i18n.getMessage("checkbox_strict_label"),
     name: "strict",
-    description: chrome.i18n.getMessage("checkbox_strict_description"),
+    description: browser.i18n.getMessage("checkbox_strict_description"),
   },
   {
-    label: chrome.i18n.getMessage("checkbox_excludeSimilarCharacters_label"),
+    label: browser.i18n.getMessage("checkbox_excludeSimilarCharacters_label"),
     name: "excludeSimilarCharacters",
-    description: chrome.i18n.getMessage(
+    description: browser.i18n.getMessage(
       "checkbox_excludeSimilarCharacters_description",
     ),
   },
   {
-    label: chrome.i18n.getMessage("checkbox_symbols_label"),
+    label: browser.i18n.getMessage("checkbox_symbols_label"),
     name: "symbols",
     description: "",
   },
@@ -86,7 +88,7 @@ export const checkboxes = [
 
 export const radios = [
   {
-    label: chrome.i18n.getMessage("radio_easy_to_say_label"),
+    label: browser.i18n.getMessage("radio_easy_to_say_label"),
     preset: {
       length: 10,
       numbers: false,
@@ -99,7 +101,7 @@ export const radios = [
     },
   },
   {
-    label: chrome.i18n.getMessage("radio_easy_to_read_label"),
+    label: browser.i18n.getMessage("radio_easy_to_read_label"),
     preset: {
       length: 12,
       numbers: true,
@@ -112,11 +114,11 @@ export const radios = [
     },
   },
   {
-    label: chrome.i18n.getMessage("radio_happy_label"),
+    label: browser.i18n.getMessage("radio_happy_label"),
     preset: happyPreset,
   },
   {
-    label: chrome.i18n.getMessage("radio_strong_label"),
+    label: browser.i18n.getMessage("radio_strong_label"),
     preset: {
       length: 13,
       numbers: true,
@@ -129,7 +131,7 @@ export const radios = [
     },
   },
   {
-    label: chrome.i18n.getMessage("radio_paranoid_label"),
+    label: browser.i18n.getMessage("radio_paranoid_label"),
     preset: {
       length: 16,
       numbers: true,

@@ -13,6 +13,7 @@ import NativeInputCheckbox from "~/components/inputs/checkbox";
 import NativeInputRadio from "~/components/inputs/radio/radio";
 import Skeleton from "~/components/skeleton/skeleton";
 import { TabPanel } from "@headlessui/react";
+import browser from "webextension-polyfill";
 import isEqual from "lodash/isEqual";
 import { secondsToHumanReadable } from "~/libs/time-duration";
 import { useLocale } from "~/context/locale";
@@ -64,7 +65,7 @@ export default function TabMain() {
     setScore(() => zxcvbnData?.score || 0);
   }, [zxcvbnData]);
 
-  const estimatedTimeToCrackTemplate = chrome.i18n.getMessage(
+  const estimatedTimeToCrackTemplate = browser.i18n.getMessage(
     "estimated_time_to_crack",
   );
 
@@ -108,7 +109,7 @@ export default function TabMain() {
           <div class="col-span-12">{estimatedTimeToCrack}</div>
           <div class="col-span-12">
             <InputRange
-              label={chrome.i18n.getMessage("input_range_length_label")}
+              label={browser.i18n.getMessage("input_range_length_label")}
               max={32}
               min={4}
               step={1}
@@ -125,7 +126,7 @@ export default function TabMain() {
           </div>
           <fieldset class="col-span-5 flex flex-col justify-between text-nowrap">
             <legend class="sr-only">
-              {chrome.i18n.getMessage("legend_preset")}
+              {browser.i18n.getMessage("legend_preset")}
             </legend>
             <div class="space-y-1">
               {radios.map((radio, index) => (
@@ -146,7 +147,7 @@ export default function TabMain() {
           </fieldset>
           <fieldset class="col-span-7">
             <legend class="sr-only">
-              {chrome.i18n.getMessage("legend_options")}
+              {browser.i18n.getMessage("legend_options")}
             </legend>
             <div class="space-y-1">
               {checkboxes.map((checkbox, index) => (
