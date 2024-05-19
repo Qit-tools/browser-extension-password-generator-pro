@@ -2,6 +2,12 @@
 
 Powerful and user-friendly browser extension/add-on with PRO features for randomly generating and checking passwords security.
 
+## Browsers
+- [Chrome](https://chromewebstore.google.com/detail/fjikmpjpehingmmhoaomifbfpjchmmad)
+- [FireFox](https://addons.mozilla.org/en-US/firefox/addon/password-generator-pro/)
+- Opera
+- Edge
+
 ## Table of Contents
 
 - [browser-extension-password-generator-pro](#name)
