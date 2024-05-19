@@ -29,6 +29,10 @@
     "type": "git",
     "url": "git+https://github.com/Qit-tools/browser-extension-password-generator-pro.git"
   },
+  "bugs": {
+    "url": "https://github.com/Qit-tools/browser-extension-password-generator-pro/issues",
+    "email": "info@qit.tools"
+  },
   "funding": {
     "type": "individual",
     "url": "https://buymeacoffee.com/deyurii"
