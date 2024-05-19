@@ -1,10 +1,10 @@
-# "browser-extension-password-generator-pro"
+# __NAME__
 
-"Powerful and user-friendly browser extension/add-on with PRO features for randomly generating and checking passwords security."
+__DESCRIPTION__
 
 ## Table of Contents
 
-- ["browser-extension-password-generator-pro"](#name)
+- [__NAME__](#name)
   - [Table of Contents](#table-of-contents)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -104,7 +104,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Project Information
 
 - **Name**: browser-extension-password-generator-pro
-- **Version**: "0.2.0"
+- **Version**: __VERSION__
 - **Author**: [Qit.tools](https://qit.tools/)
 - **Description**: Powerful and user-friendly browser extension/add-on with PRO features for randomly generating and checking passwords security.
 - **Homepage**: [https://qit.tools/](https://qit.tools/)

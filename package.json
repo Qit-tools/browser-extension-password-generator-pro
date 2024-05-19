@@ -41,7 +41,7 @@
     "build": "bun run fmt && bun run lint && rm -rf ./build/* && rm -rf ./dist/* && tsc && vite build && find ./build -name \".DS_Store\" -exec rm -rf {} + && rm -rf ./build/.vite && find ./build -mindepth 2 -name \"manifest.json\" -exec rm -rf {} + && find ./build -name \".*\" ! -name \".\" ! -name \"..\" -exec rm -rf {} + && cd build && zip -r ../dist/build-$(node -p \"require('../package.json').version\").zip . && cd ..",
     "preview": "vite preview",
     "lint": "eslint -c eslint.config.js ./src/**/*{.ts,.tsx}",
-    "fmt": "prettier --write '**/*.{tsx,ts,json,css,scss,md}'"
+    "fmt": "prettier --write '**/*.{tsx,ts,json,css,scss}'"
   },
   "dependencies": {
     "@types/lodash": "^4.17.4",

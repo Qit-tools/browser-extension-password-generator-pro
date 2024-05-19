@@ -1,6 +1,7 @@
 import { crx } from "@crxjs/vite-plugin";
 import deadFile from "vite-plugin-deadfile";
 import { defineConfig } from "vite";
+import generateReadme from "./vite-plugin-readme";
 import manifest from "./src/manifest";
 import pkg from "./package.json";
 import preact from "@preact/preset-vite";
@@ -19,6 +20,7 @@ export default defineConfig({
   plugins: [
     crx({ manifest }),
     preact(),
+    generateReadme(),
     tsconfigPaths(),
     deadFile({
       root: "src",

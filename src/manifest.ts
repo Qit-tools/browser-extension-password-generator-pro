@@ -19,10 +19,9 @@ export default defineManifest({
   permissions: ["storage"],
   browser_specific_settings: {
     gecko: {
-      id: "browser-extension-password-generator-pro@qit.tools",
+      id: "gecko-browser-extension-password-generator-pro@qit.tools",
       strict_min_version: "109.0",
       android: {
-        id: "browser-extension-password-generator-pro-android@qit.tools",
         strict_min_version: "109.0",
       },
     },

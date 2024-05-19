@@ -21,6 +21,6 @@
     "jsxFactory": "h",
     "jsxFragmentFactory": "Fragment"
   },
-  "include": ["src", "vite-env.d.ts"],
+  "include": ["src", "vite-plugin-readme.ts", "vite-env.d.ts"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
