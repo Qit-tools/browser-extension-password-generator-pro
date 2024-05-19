@@ -17,13 +17,4 @@ export default defineManifest({
     default_icon: "icons/logo.png",
   },
   permissions: ["storage"],
-  browser_specific_settings: {
-    gecko: {
-      id: "gecko-browser-extension-password-generator-pro@qit.tools",
-      strict_min_version: "109.0",
-      android: {
-        strict_min_version: "109.0",
-      },
-    },
-  },
 } as never);

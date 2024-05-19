@@ -27,6 +27,30 @@ export function formatNumber(num: number): string | undefined {
   }
 }
 
+export function getBrowserExtUrl(): string {
+  const userAgent = navigator.userAgent;
+  let browserName: string = "Unknown";
+
+  if (userAgent.includes("Firefox")) {
+    browserName = "https://qit.tools/";
+  } else if (userAgent.includes("Edg")) {
+    browserName = "https://qit.tools/";
+  } else if (userAgent.includes("Chrome")) {
+    if (userAgent.includes("Brave")) {
+      browserName = "https://qit.tools/";
+    } else if (userAgent.includes("OPR")) {
+      browserName = "https://qit.tools/";
+    } else {
+      browserName =
+        "https://chromewebstore.google.com/detail/fjikmpjpehingmmhoaomifbfpjchmmad";
+    }
+  } else if (userAgent.includes("Safari")) {
+    browserName = "https://qit.tools/";
+  }
+
+  return browserName;
+}
+
 export const checkboxes = [
   {
     label: chrome.i18n.getMessage("checkbox_uppercase_label"),

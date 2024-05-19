@@ -1,3 +1,5 @@
+import { getBrowserExtUrl } from "~/libs/addons";
+
 export default function Footer() {
   return (
     <div
@@ -44,7 +46,7 @@ export default function Footer() {
       </div>
       <div class="flex items-center justify-center">
         <a
-          href="https://qit.tools/"
+          href={getBrowserExtUrl()}
           rel="noopener noreferrer"
           target="_blank"
           class="group flex items-center text-slate-600 hover:text-slate-800 dark:text-slate-500 dark:hover:text-slate-400"
