@@ -6,6 +6,7 @@ __DESCRIPTION__
 
 - [__NAME__](#name)
   - [Table of Contents](#table-of-contents)
+  - [Browsers](#browsers)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Build Process](#build-process)
@@ -14,6 +15,12 @@ __DESCRIPTION__
   - [License](#license)
   - [Project Information](#project-information)
   - [Keywords](#keywords)
+
+## Browsers
+- 🌐 [Chrome](https://chromewebstore.google.com/detail/fjikmpjpehingmmhoaomifbfpjchmmad)
+- 🦊 [FireFox](https://addons.mozilla.org/en-US/firefox/addon/password-generator-pro/)
+- 🎭 Opera
+- 💻 Edge
 
 ## Prerequisites
 
