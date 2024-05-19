@@ -2,9 +2,10 @@ import { defineManifest } from "@crxjs/vite-plugin";
 import pkg from "../package.json";
 
 export default defineManifest({
-  name: "__MSG_extName__",
-  short_name: "__MSG_extShortName__",
-  description: "__MSG_extDescription__",
+  name: "Password Generator PRO",
+  short_name: "Password PRO",
+  description:
+    "Powerful and user-friendly extension/add-on with PRO features for randomly generating and checking passwords security.",
   version: pkg.version,
   manifest_version: 3,
   icons: {
