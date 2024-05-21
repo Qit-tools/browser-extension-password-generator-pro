@@ -85,6 +85,7 @@ export const Popup = () => {
                           "rounded-full",
                           "px-2.5",
                           "py-1",
+                          "whitespace-nowrap",
                           "font-semibold",
                           "focus:outline-none",
                           "data-[focus]:outline-1",

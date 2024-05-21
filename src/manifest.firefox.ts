@@ -15,6 +15,7 @@ export default defineManifest({
     default_popup: "popup.html",
     default_icon: "icons/logo.png",
   },
+  optional_permissions: ["clipboardWrite"],
   permissions: ["storage"],
   browser_specific_settings: {
     gecko: {

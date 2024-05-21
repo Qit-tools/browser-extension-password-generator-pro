@@ -1,6 +1,6 @@
 {
   "name": "browser-extension-password-generator-pro",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "author": {
     "name": "Qit.tools",
     "email": "info@qit.tools",
@@ -41,14 +41,14 @@
     "node": ">=14.18.0"
   },
   "scripts": {
-    "dev": "vite",
-    "build:chrome": "bun run fmt && bun run lint && mkdir -p ./build/chrome && rm -rf ./build/chrome/* && rm -rf ./dist/build-firefox-* && tsc && vite build --config vite.chrome.config.ts && find ./build/chrome -name \".DS_Store\" -exec rm -rf {} + && rm -rf ./build/chrome/.vite && find ./build/chrome -mindepth 2 -name \"manifest.json\" -exec rm -rf {} + && find ./build/chrome -name \".*\" ! -name \".\" ! -name \"..\" -exec rm -rf {} + && cd build/chrome && zip -r ../../dist/build-chrome-$(node -p \"require('../../package.json').version\").zip . && cd ..",
+    "dev": "vite --config vite.firefox.config",
+    "build:chrome": "bun run fmt && bun run lint && mkdir -p ./build/chrome && rm -rf ./build/chrome/* && rm -rf ./dist/build-chrome-* && tsc && vite build --config vite.chrome.config.ts && find ./build/chrome -name \".DS_Store\" -exec rm -rf {} + && rm -rf ./build/chrome/.vite && find ./build/chrome -mindepth 2 -name \"manifest.json\" -exec rm -rf {} + && find ./build/chrome -name \".*\" ! -name \".\" ! -name \"..\" -exec rm -rf {} + && cd build/chrome && zip -r ../../dist/build-chrome-$(node -p \"require('../../package.json').version\").zip . && cd ..",
     "build:firefox": "bun run fmt && bun run lint && mkdir -p ./build/firefox && rm -rf ./build/firefox/* && rm -rf ./dist/build-firefox-* && tsc && vite build --config vite.firefox.config.ts && find ./build/firefox -name \".DS_Store\" -exec rm -rf {} + && rm -rf ./build/firefox/.vite && find ./build/firefox -mindepth 2 -name \"manifest.json\" -exec rm -rf {} + && find ./build/firefox -name \".*\" ! -name \".\" ! -name \"..\" -exec rm -rf {} + && cd build/firefox && zip -r ../../dist/build-firefox-$(node -p \"require('../../package.json').version\").zip . && cd ..",
     "preview": "vite preview",
     "lint": "eslint -c eslint.config.js ./src/**/*{.ts,.tsx}",
     "fmt": "prettier --write '**/*.{tsx,ts,json,css,scss}'"
   },
-  "dependencies": {
+  "devDependencies": {
     "@types/lodash": "^4.17.4",
     "@types/luxon": "^3.4.2",
     "@types/node": "^20.12.12",
@@ -57,9 +57,7 @@
     "@typescript-eslint/parser": "^7.10.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.1.3",
-    "preact": "^10.22.0"
-  },
-  "devDependencies": {
+    "preact": "^10.22.0",
     "@crxjs/vite-plugin": "^2.0.0-beta.19",
     "@eslint/js": "^9.3.0",
     "@headlessui/react": "^2.0.3",

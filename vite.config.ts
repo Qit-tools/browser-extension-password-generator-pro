@@ -5,6 +5,15 @@ import pkg from "./package.json";
 import preact from "@preact/preset-vite";
 import tsconfigPaths from "vite-tsconfig-paths";
 
+const noAttr = () => {
+  return {
+    name: "no-attribute",
+    transformIndexHtml(html: string) {
+      return html.replace(`crossorigin `, "");
+    },
+  };
+};
+
 export default defineConfig({
   build: {
     emptyOutDir: true,
@@ -15,6 +24,7 @@ export default defineConfig({
     },
   },
   plugins: [
+    noAttr(),
     preact(),
     generateReadme(),
     tsconfigPaths(),

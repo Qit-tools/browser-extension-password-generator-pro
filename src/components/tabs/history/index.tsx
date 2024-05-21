@@ -107,7 +107,10 @@ export default function TabHistory() {
             <div class="pointer-events-none absolute bottom-0 left-0 h-16 w-full border-b-2 border-slate-300 bg-gradient-to-t from-slate-200 from-10% to-transparent dark:border-slate-700 dark:from-slate-900"></div>
           </div>
           <div class="flex items-end justify-between p-4">
-            <Button class="btn btn-light max-w-16" onClick={clearHistory}>
+            <Button
+              class="btn btn-light min-w-16 max-w-24"
+              onClick={clearHistory}
+            >
               {browser.i18n.getMessage("button_clear")}
             </Button>
             <label

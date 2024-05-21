@@ -12,6 +12,7 @@ export default defineManifest({
   icons: {
     128: "icons/logo.png",
   },
+  optional_permissions: ["clipboardWrite"],
   default_locale: "en",
   action: {
     default_popup: "popup.html",
