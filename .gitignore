@@ -9,6 +9,8 @@ lerna-debug.log*
 .DS_Store
 *.DS_Store
 build
+build-chrome
+build-firefox
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 

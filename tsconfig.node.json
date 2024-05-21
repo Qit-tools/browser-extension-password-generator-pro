@@ -6,5 +6,9 @@
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true
   },
-  "include": ["vite.config.ts", "./vite-plugin-readme.ts", "./src/manifest.ts"]
+  "include": [
+    "vite.config.ts",
+    "./vite-plugin-readme.ts",
+    "src/manifest.chrome.ts"
+  ]
 }
