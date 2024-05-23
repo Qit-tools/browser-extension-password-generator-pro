@@ -2,9 +2,9 @@ import { defineManifest } from "@crxjs/vite-plugin";
 import pkg from "../package.json";
 
 export default defineManifest({
-  name: "Password Generator PRO",
-  short_name: "Password PRO",
-  description: pkg.description,
+  name: "__MSG_extName__",
+  short_name: "__MSG_extShortName__",
+  description: "__MSG_extDescription__",
   version: pkg.version,
   minimum_chrome_version: "88",
   offline_enabled: true,
@@ -15,6 +15,7 @@ export default defineManifest({
   optional_permissions: ["clipboardWrite"],
   default_locale: "en",
   action: {
+    default_title: "__MSG_extName__",
     default_popup: "popup.html",
     default_icon: "icons/logo.png",
   },
