@@ -37,7 +37,8 @@ export function getBrowserExtUrl(): string {
     browserName =
       "https://addons.mozilla.org/en-US/firefox/addon/password-generator-pro/";
   } else if (userAgent.includes("Edg")) {
-    browserName = "https://qit.tools/";
+    browserName =
+      "https://microsoftedge.microsoft.com/addons/detail/hipeoleoaigikjnjdoigckbofedkcjki";
   } else if (userAgent.includes("Chrome")) {
     if (userAgent.includes("Brave")) {
       browserName = "https://qit.tools/";

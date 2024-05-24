@@ -20,7 +20,7 @@ __DESCRIPTION__
 - 🌐 [Chrome](https://chromewebstore.google.com/detail/fjikmpjpehingmmhoaomifbfpjchmmad)
 - 🦊 [FireFox](https://addons.mozilla.org/en-US/firefox/addon/password-generator-pro/)
 - 🎭 Opera
-- 💻 Edge
+- 💻 [Edge](https://microsoftedge.microsoft.com/addons/detail/hipeoleoaigikjnjdoigckbofedkcjki)
 
 ## Prerequisites
 

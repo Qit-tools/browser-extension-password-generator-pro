@@ -20,7 +20,7 @@ Powerful and user-friendly browser extension/add-on with PRO features for random
 - 🌐 [Chrome](https://chromewebstore.google.com/detail/fjikmpjpehingmmhoaomifbfpjchmmad)
 - 🦊 [FireFox](https://addons.mozilla.org/en-US/firefox/addon/password-generator-pro/)
 - 🎭 Opera
-- 💻 Edge
+- 💻 [Edge](https://microsoftedge.microsoft.com/addons/detail/hipeoleoaigikjnjdoigckbofedkcjki)
 
 ## Prerequisites
 
@@ -111,7 +111,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Project Information
 
 - **Name**: browser-extension-password-generator-pro
-- **Version**: 0.4.3
+- **Version**: 0.4.4
 - **Author**: [Qit.tools](https://qit.tools/)
 - **Description**: Powerful and user-friendly browser extension/add-on with PRO features for randomly generating and checking passwords security.
 - **Homepage**: [https://qit.tools/](https://qit.tools/)
